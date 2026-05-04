@@ -22,7 +22,7 @@ Epictetus encourages his students to take their life seriously, like an Olympic 
 "When faced with anything painful or pleasurable, anything bringing glory or disrepute, realize that the crisis is now, that the Olympics have started, and waiting is no longer an option; that the chance for progress, to keep or lose, turns on the events of a single day."  
 id: 845
 
-At its simplest productivity is doing more with less. Productive people go further faster. The more productive one is in a field, the better chance you have of making it to Olympic levels of performance in record time.
+At its simplest, productivity is doing more with less. Productive people go further faster. The more productive you are in a field, the better your chance of reaching Olympic levels of performance in record time.
 
 The psychological tools and teachings of the ancient Stoics can help you achieve that.
 
@@ -37,7 +37,7 @@ id: 1779
 
 Before seeking efficiency, it’s essential to ask what all this efficiency is for.
 
-For Stoics, productivity is an essential skill. They praise the traits of relentlessness, resourcefulness, good planning, and disciplined action. Each of these are an aspect of a life well lived. 
+For Stoics, productivity is an essential skill. They praise the traits of relentlessness, resourcefulness, good planning, and disciplined action. Each of these is an aspect of a life well lived. 
 
 What’s essential is that each of these skills is pointed towards meaningful ends.
 
@@ -45,7 +45,7 @@ Excellent work for the sake of happiness – that’s what matters.
 
 Productivity is not a goal in and of itself. It must serve a greater purpose. Stoic productivity is doing the right thing with less.
 
-Consider the shallow man who finds success but whose riches and fame are soon forgotte. Contrast him with the disciplined artist whose beautiful work survives long after they are gone. Or think about the woman who thrives in a cutthroat business but ruins both her friendships and her competitors. Compare her to the happy small business owner who earns less but enjoys a stellar reputation in her own community.
+Consider the shallow man who finds success but whose riches and fame are soon forgotten. Contrast him with the disciplined artist whose beautiful work survives long after they are gone. Or think about the woman who thrives in a cutthroat business but ruins both her friendships and her competitors. Compare her to the happy small business owner who earns less but enjoys a stellar reputation in her own community.
 
 When you picture a productive Stoic, imagine people who are excellent and happy. Their productivity flows from their character. It’s a part of who they are – not inauthentic striving. They work well with others in the best sense: contributing to their communities and cities. If they have the fortune to be able to reflect on their life towards its end, they do so with the satisfaction that they did their best. Without regret or remorse.
 
@@ -55,15 +55,15 @@ There’s no question that Stoics have been productive throughout history. But t
 
 ## Emulate successful people 
 
-If Stoic productivity is about doing the right things with less – how do you determine what’s right. In other words, how do you determine what your purpose is?
+If Stoic productivity is about doing the right things with less – how do you determine what’s right? In other words, how do you determine what your purpose is?
 
 Other people provide us with answers for the questions philosophy brings.
 
 The Stoics taught that we all possess an innate sense of what is good and what is bad. We use this when we decide who is admirable and worthy of emulation.
 
-This is why the ancient traditions encourage us to find heroes and become like them. This is an excellent approach, one whose effectiveness cannot be underrated.
+This is why the ancient traditions encourage us to find heroes and become like them. This is an excellent approach, one whose value is hard to overstate.
 
-We see peoples’ philosophy in their actions. Ultimately, this is what matters. 
+We see people’s philosophy in their actions. Ultimately, this is what matters. 
 
 Seneca advised his readers to use role models as guides:
 
@@ -125,7 +125,7 @@ As Seneca counsels:
 "In the meantime, cling tooth and nail to the following rule: not to give in to adversity, not to trust prosperity, and always take full note of fortune’s habit of behaving just as she pleases."  
 id: 496
 
-Part of this process involves coming to terms with the fact that we cannot know every possible obstacle. Yet there’s something crucial that we can capture just by thinking about ways things can go awry. A quip goes “plans are useless, but planning is indispensable.”
+Part of this process involves coming to terms with the fact that we cannot know every possible obstacle. Yet there’s something crucial that we can capture just by thinking about ways things can go awry. As the quip goes: “plans are useless, but planning is indispensable.”
 
 Second, by bringing to mind ways things go wrong we can handle it when they do. Often anticipation is worse than the event itself. To combat this, bring to mind whatever you fear. Imagine that it comes to pass. And then visualize yourself handling it with skill.
 
@@ -150,7 +150,7 @@ By seeing things like the last entrepreneur, you can bring the focus back to wha
 
 Fortune will come and go. Setbacks will happen. They always do. But they will not be final. Wherever you are, you can bring to mind your task and do your best to see it through. That’s all you're called to do.
 
-So, when you visualize bad things happening, remember these three questions. Remember these three questions:
+So, when you visualize bad things happening, remember these three questions:
 
 * How can I make it less likely that this occurs?  
 * How can I act skillfully if it does occur?  
@@ -196,7 +196,7 @@ This opens up a space to ignore distractions, think through what to do strategic
 
 With critical assent, our student said that he was able to find the zone more easily. Interactions with others went more smoothly. He was able to focus for longer periods of time. Simply by reminding himself, again and again to notice and then critically assent to every impression.
 
-He was following in the footsteps of the Roman Epictetus’s students. Epictetus told his pupils to:
+He was following in the footsteps of Epictetus’s students. Epictetus told his pupils to:
 
 "Make a practice at once of saying to every strong impression: ‘An impression is all you are, not the source of the impression.’ Then test and assess it with your criteria, but one primarily: ask, ‘Is this something that is, or is not, in my control?’"  
 id: 808
@@ -232,7 +232,7 @@ To understand it, it’s essential to understand Stoic views on the good.
 
 The Stoics saw the good as the guiding north star to our lives. The thing that always provides direction. Something that, if we see it, we’re motivated to follow it.
 
-The ancients were not satisfied with something that sometimes worked and other times didn’t  – they sought the unconditionally good. 
+The ancients were not satisfied with something that sometimes worked and other times didn’t – they sought the unconditionally good. 
 
 For this reason, they settled on virtue. No matter the situation, acting with virtue is good. 
 
@@ -292,13 +292,13 @@ We can use rewards and change the environment. These are important techniques th
 
 If you’re not motivated to do something rather simple – the Stoic may ask does it matter at all? 
 
-The point of the question is to get at your values. If you want to write, why do you desire to write at all? Is it important? Have you fully internalized its importance? Do you want to create great books – or be seen as writer?
+The point of the question is to get at your values. If you want to write, why do you desire to write at all? Is it important? Have you fully internalized its importance? Do you want to create great books – or to be seen as a writer?
 
 Sometimes the lack of motivation is a sign that whatever you want to do, simply doesn’t matter. It’s an expectation put on yourself for no reason.
 
 This can be illuminating – but it doesn’t solve the issue when we aren’t motivated to do something that is meaningful.
 
-This is what Marcus Aurelius is facing when he wants to stay in bed – instead of to do the most important job in the world at that time. 
+This is what Marcus Aurelius is facing when he wants to stay in bed – instead of doing the most important job in the world at that time. 
 
 At this crucial point, he reminds himself of his values. Who does he want to be?
 
@@ -336,7 +336,7 @@ Or by asking:
 
 “Do I prefer to be the person who chooses this path or avoids it?”
 
-For example, you might consider a choice between making more money doing something you despise or doing something you love for less..
+For example, you might consider a choice between making more money doing something you despise or doing something you love for less.
 
 There are different ways to approach this decision.
 
@@ -425,7 +425,7 @@ You can see this in action when Epictetus accosts his students for showing off t
 
 Handbook, 49
 
-Epictetus shows his students that their self-image does not line up with reality. This should motivate them to be better. forming and reinforcing our self-image is a part of the project of shaping our character. 
+Epictetus shows his students that their self-image does not line up with reality. This should motivate them to be better. Forming and reinforcing our self-image is a part of the project of shaping our character. 
 
 The Stoics see shame as the fear of disgrace. When we’re ashamed we want to hide what we've done from ourselves and others. The fear of public humiliation keeps many from acting virtuously. It has prevented many from living the life they want to lead.
 
@@ -439,7 +439,7 @@ Many are dependent on others' approval. But self-respecting people are free. The
 
 When you fail to live up to your standards, some amount of embarrassment is appropriate. Use that as fuel to act better next time. 
 
-There’s a story about the philosopher Diogenes – Diogenes wandered through Athens with a lamp. When asked why he went about with a lamp in broad daylight, Diogenes said, "I am looking for an honest man." Seeing a young man blush, he remarked that it was what virtue looked like.
+There’s a story about the philosopher Diogenes. He wandered through Athens with a lamp. When asked why he went about with a lamp in broad daylight, Diogenes said, "I am looking for an honest man." Seeing a young man blush, he remarked that it was what virtue looked like.
 
 The young man’s embarrassment is the beginning of self-transformation and respect.
 
@@ -463,7 +463,7 @@ Epictetus captures this perfectly in his dialogue with a student who has mastere
 
 I would reply, ‘I wish to see the effect of your dumbbells.’
 
-So, when you say: ‘Take the treatise on the active powers, and see how I have studied it.	‘
+So, when you say: ‘Take the treatise on the active powers, and see how I have studied it.’
 
 I reply, ‘Slave, I am not inquiring about this, but how you exercise pursuit and avoidance, desire and aversion, how you design and purpose and prepare yourself, whether conformably to nature or not.’”  
 id: ?
