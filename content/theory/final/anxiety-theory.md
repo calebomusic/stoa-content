@@ -39,7 +39,8 @@ Life throws many things our way that cause anxiety. With the right life philosop
 
 Let’s end with a line from Marcus Aurelius:
 
-"Today I escaped from anxiety. Or no, I discarded it, because it was within me, in my own perceptions—not outside."
+"Today I escaped from anxiety. Or no, I discarded it, because it was within me, in my own perceptions—not outside."  
+id: 225
 
 # The Purpose of Anxiety
 
@@ -71,7 +72,7 @@ The best evolutionary explanation that I’ve ever come across for anxiety is Th
 
 This idea justifies Seneca’s phrase: 
 
-“We suffer more in imagination than reality.”  
+“We suffer more often in imagination than in reality.”  
 id: 366
 
 Consider someone whose smoke alarm is slightly too sensitive. Sometimes it will sound off an alarm even when there is no fire. That doesn’t mean the smoke alarm is useless. In fact, having a smoke alarm that is too sensitive is better than the opposite. It’s much worse to stay in a burning building because an alarm didn’t go off than it is to leave a safe building during a false alarm. In one world, you’ll be burned or worse. In the other, you’ve merely experienced an inconvenience.
@@ -114,7 +115,7 @@ The Stoics were especially wary of these intense emotions, what they called pass
 
 Because irrationality hampers our vision, we don’t navigate through life well.
 
-The Stoics contrasted passions with positive emotions, what they called eupatheiai or good feelings. These emotional states involve seeing the world accurately. They also have a positive, pleasant, or satisfying quality. In fact, this division between good and bad emotions corrects a common misconception about Stoicism, namely, that its purpose is to eliminate emotions. This is mistaken for two reasons. First, the Stoics, like many other ancient philosophers, placed living the life of virtue as the primary goal of their philosophy. Second, because the Stoics don’t seek to remove emotions at all – there are good ones that we have no reason to eliminate and every reason to keep.
+The Stoics contrasted passions with positive emotions, what they called eupatheiai or good feelings. These emotional states involve seeing the world accurately. They also have a positive, pleasant, or satisfying quality. In fact, this division between good and bad emotions corrects a common misconception about Stoicism, namely, that its purpose is to eliminate emotions. This is mistaken for two reasons. First, the Stoics, like many other ancient philosophers, placed living the life of virtue – not the absence of feeling – as the primary goal of their philosophy. Second, the Stoics don’t seek to remove emotions at all: there are good ones that we have no reason to eliminate and every reason to keep.
 
 How does anxiety fit into this picture?
 
@@ -126,7 +127,7 @@ The key idea here maps onto modern definitions of anxiety well:
 
 “anxiety is the associated emotion that facilitates avoidance of dangerous situations.”
 
-This suggests that anxiety is related to judgments that there is a threat and that it is bad. If anxiety involves the opinion that something we value is threatened.
+This suggests that anxiety is related to judgments that there is a threat and that it is bad. Anxiety involves the opinion that something we value is threatened.
 
 The Stoic approach to anxiety takes both of these aspects into mind.
 
@@ -163,9 +164,8 @@ This is what Stoicism aims to avoid. By building resilience, one grows in one’
 
 As Marcus Aurelius said:
 
-"Today I escaped from anxiety. Or no, I discarded it, because it was within me, in my own perceptions—not outside."
-
-id: 255
+"Today I escaped from anxiety. Or no, I discarded it, because it was within me, in my own perceptions—not outside."  
+id: 225
 
 If you notice an issue with anxiety it’s crucial to frame it in the right way. 
 
@@ -186,19 +186,17 @@ But this principle is more than practically useful. Ultimately, it’s action-gu
 
 To describe this, the Stoics spoke about an archer. The archer is only in control of aiming and loosening their arrow. After they fire the arrow, whatever occurs is no longer in their control. Of course, what happens can be useful feedback. Yet the archer will always be subject to the whims of chance.
 
-We’re like the archer, but ultimately what we’re responsible for is our rational abilities. We can choose how to respond to the world – with our attention, decisions, and judgements. By doing so, we shape our character. According to the Stoics, it’s our character that we ought to perfect. nothing else.
+We’re like the archer, but ultimately what we’re responsible for is our rational abilities. We can choose how to respond to the world – with our attention, decisions, and judgements. By doing so, we shape our character. According to the Stoics, it’s our character that we ought to perfect. Nothing else.
 
 What does this have to do with anxiety?
 
-If anxiety is stress due to the judgment that something of value is under threat.
+Anxiety is distress due to the judgment that something of value is under threat. The dichotomy of control helps us break that judgment down. 
 
-The dichotomy of control helps us break that judgment down. 
-
-First, we can check whether the threat is real. If it isn't, we can acknowledge our thoughts and then let them go. Sometimes challenging our thoughts is sufficient to address them. If we’re nervous that a projectile is coming towards us and then realize that we just got spooked by a shadow, that realization is enough to dissolve the fear. However, at other times the negative thoughts keep on coming. At this point, we can acknowledge them. Thoughts arise. The human mind is always generating them. That’s not under our direct control. We can accept this and then move our attention back to the manner at hand.
+First, we can check whether the threat is real. If it isn't, we can acknowledge our thoughts and then let them go. Sometimes challenging our thoughts is sufficient to address them. If we’re nervous that a projectile is coming towards us and then realize that we just got spooked by a shadow, that realization is enough to dissolve the fear. However, at other times the negative thoughts keep on coming. At this point, we can acknowledge them. Thoughts arise. The human mind is always generating them. That’s not under our direct control. We can accept this and then move our attention back to the matter at hand.
 
 Second, we can address the threat if it is real. If it is, take the appropriate action. After due diligence, then there’s nothing else to do. If additional anxious thoughts arise, we can acknowledge them, but need only act on them or engage with them if they’re new information. Remember, caution is a virtue. Experiencing the psychic pain of worry is not necessarily a bad thing. If we didn’t worry at all, we’d make more mistakes.
 
-Finally, we can question whether something important is at stake. Everything that is not up to us is indifferent. Why worry about it when it is not up to us? Our wealth, social status, and pleasure do not make for happiness. What matters is how we use such things. As such return our focus
+Finally, we can question whether something important is at stake. Everything that is not up to us is indifferent. Why worry about it when it is not up to us? Our wealth, social status, and pleasure do not make for happiness. What matters is how we use such things. So return your focus to what is up to you.
 
 It’s easiest to make these moves when anxiety begins. Anxiety often feels like losing your way. It may start with small thoughts and then as those thoughts are fed, grow into larger ones still.
 
@@ -221,7 +219,7 @@ Every joy, pain, boredom, and excitement.
 
 If you could truly internalize this belief it would radically change your life and how you experience the world.
 
-Pain undergone freely is much easier to withstand than pain experienced involuntarily. While exercising one can withstand intense physical pain. Because you’ve chosen to. Out of good reason. However, if you felt half of the pain randomly in the middle of the night – that would be a different matter. Your mind may spin looking for justifications for your sensation. It may heighten the negative sensations of anxiety and worry. 
+Pain undergone freely is much easier to withstand than pain experienced involuntarily. While exercising, you can withstand intense physical pain because you’ve chosen it for a good reason. However, if you felt half of that pain randomly in the middle of the night, that would be a different matter. Your mind would spin looking for justifications for the sensation, and likely heighten the discomfort with anxiety and worry. 
 
 Marcus Aurelius once reminded himself:
 
@@ -243,11 +241,11 @@ id: 438
 
 So, one strategy for cultivating acceptance is to take on the mindset of willing acceptance. See yourself as willing whatever is occurring. Don’t just tolerate it, but say yes to it.
 
-If you find this strategy difficult. Focus on seeing the world as it is. Meditate on the mantra:
+If you find this strategy difficult, focus on seeing the world as it is. Meditate on the mantra:
 
 “Let things come, let them be, and let them go.”
 
-Just see things as they are. And then turn to what matters. In Marcus Aurelus’s case, he focuses on “justice.” Given his position as a Roman emperor, highlighting this virtue is natural. As he he says elsewhere:
+Just see things as they are. And then turn to what matters. In Marcus Aurelius’s case, he focuses on “justice.” Given his position as a Roman emperor, highlighting this virtue is natural. As he says elsewhere:
 
 “In all that you do, make sure that you do not act at random, or otherwise than Justice herself would act.”  
 id:
@@ -297,14 +295,9 @@ When our thoughts catastrophize we fixate on the possibility of extreme negative
 
 We so often ruminate over how things may go wrong. Yet there are two things to realize here. First, many people are simply delusional pessimists. They don’t realize how much good is in the world and how often things go right. Second, it wouldn’t be that bad if things went wrong. If you can, bring this possibility into mind. See things going awry objectively. You’ll find that it isn’t as bad as you thought. And then return your attention to what matters at the moment.
 
-Finally, so much of our thought is absolute or black-and-white thinking. If this happens then I’m a failure. Either I’m a success or I’m not. This kind of thinking is so broad it’s useless. Reality is complex and detailed. 
+Finally, so much of our thought is absolute or black-and-white thinking. If this happens then I’m a failure. Either I’m a success or I’m not. This kind of thinking is so broad it’s useless. Reality is complex and detailed.
 
-As Seneca once quipped:
-
-“Success is not final, failure is not fatal.”  
-id: 1859
-
-We need to leave room for gray. People, events, and what have you are not simply good or bad. Instead, their hundreds of different facets have hundreds of other properties that interact in complex ways. Remember this when you reflexively judge good or bad.
+We need to leave room for gray. People and events are not simply good or bad. Their many facets have many properties that interact in complex ways. Remember this when you reflexively judge.
 
 Change your perspective. Break things down. Focus on each moment and each step. See things from above. Let the trivial fall away.
 
@@ -360,13 +353,13 @@ Other times, we’re detached and uncoordinated. Our verbal self critiques our b
 
 Indeed, sometimes we’re in the zone, fully focused, and performing well. We break the state only when we notice how well we’re doing. Positive judgments can prove to be obstacles as much as negative ones.
 
-Verbal thinking gets in our way. When it’s time to act, let your intuitive and doing self go.
+Verbal thinking gets in our way. When it’s time to act, let the intuitive, doing self take over.
 
 When you become distracted, return to the matter at hand.
 
 Reflection and experimentation can occur after the fact. There are times for caution and problem-solving and then there’s time for performance.
 
-Late at night is typically not a time for worry. The jitters before a performance are natural. But they’re not usually a time to try to analytically perfect things or make last minute changes.
+Late at night is typically not a time for worry. The jitters before a performance are natural. But they’re not usually a time to try to analytically perfect things or make last-minute changes.
 
 It’s the verbal and analytic aspect of ourselves that is responsible for anxiety. This side of ourselves imagines hypotheticals that are not likely to occur and judgements that are not true. Of course, this part of us can also generate ingenious solutions, prudent decisions, and knowledge.
 
@@ -379,7 +372,7 @@ id: 1860
 
 This is not a skill limited to tennis or sport.
 
-There's time for judgment. When you’re reflecting on how to improve your game after practice or strategizing for a big match. Yet many of our minds are generating criticism after criticism, worry after worry – how is that working out?
+There’s a time for judgment: when you’re reflecting on how to improve your game after practice or strategizing for a big match. Yet many of our minds are generating criticism after criticism, worry after worry – how is that working out?
 
 When we let go of our unnecessary value judgments and quiet our chattering minds, we’re free to observe things as they are.
 
@@ -410,7 +403,7 @@ Always be realistic. There’s no reason to focus on possibilities that are fant
 
 Be mindful of rumination. Mental visualization can trap you in your head.
 
-This is why exposure therapy usually always occurs in the real world. So, if you can, be creative and, move towards your anxiety in the real world.
+This is why exposure therapy almost always occurs in the real world. So, if you can, be creative and move towards your anxiety in the real world.
 
 The reason this works is that so many of our fears are in imagination rather than reality.
 
