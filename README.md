@@ -19,6 +19,8 @@ content/
 metadata/
   playlists.json               # Playlist.id <-> title map (incl. is_theory)
   routine_playlists.json       # RoutinePlaylist.id <-> title map
+resources/
+  podcast/<slug>.md            # Stoa Conversations podcast transcripts
 ```
 
 Type resolution: when a doc's title exactly matches a row in `metadata/*.json`,
@@ -47,6 +49,41 @@ playlist_type: null          # playlist | routine_playlist | null
 status: final                # final | draft
 ---
 ```
+
+## Resources
+
+`resources/` holds supplementary material that is not part of the core
+Drive-synced corpus but is useful for grounding, search, and reference.
+
+### `resources/podcast/`
+
+Auto-generated transcripts of every public episode in the [Stoa Conversations
+playlist][playlist] on YouTube, fetched via `yt-dlp`'s `en-orig` automatic
+captions and reflowed into prose. One `.md` file per episode with frontmatter:
+
+```yaml
+---
+title: "The Stoic Case for Introspection (Episode 223)"
+slug: the-stoic-case-for-introspection
+episode_number: 223          # omitted when title has no "(Episode NNN)" suffix
+youtube_id: HkFxjmoVtr0
+youtube_url: https://www.youtube.com/watch?v=HkFxjmoVtr0
+upload_date: 2026-04-30
+duration: 24:18
+source: youtube_auto_caption
+---
+```
+
+Slugs follow the same kebab-case rules as `content/`, with `(Episode NNN)`
+parsed out into `episode_number`. When two distinct videos share a slug
+(e.g. a re-upload), the YouTube ID is appended to disambiguate.
+
+Because these are auto-generated captions, the prose is unedited: expect
+mistranscribed names ("Caleb Monttoveros", "So Conversations") and no
+punctuation reflow. Treat them as searchable references, not publishable
+copy.
+
+[playlist]: https://www.youtube.com/playlist?list=PLIQ69U4Ez45-UsP4WqlEG_1Q0rARkqbk9
 
 ## Out of scope
 
