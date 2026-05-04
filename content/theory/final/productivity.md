@@ -19,7 +19,7 @@ Stoicism can take you to heroic levels of productivity.
 
 Epictetus encourages his students to take their life seriously, like an Olympic athlete:
 
-"When faced with anything painful or pleasurable, anything bringing glory or disrepute, realize that the crisis is now, that the Olympics have started, and waiting is no longer an option; that the chance for progress, to keep or lose, turns on the events of a single day."  
+“When faced with anything painful or pleasurable, anything bringing glory or disrepute, realize that the crisis is now, that the Olympics have started, and waiting is no longer an option; that the chance for progress, to keep or lose, turns on the events of a single day.”  
 id: 845
 
 At its simplest, productivity is doing more with less. Productive people go further faster. The more productive you are in a field, the better your chance of reaching Olympic levels of performance in record time.
@@ -32,7 +32,7 @@ Productivity can take you further faster – but are you headed towards a meani
 
 The essential question that any project of self improvement must ask is where are you going? As Seneca says:
 
-"If a man knows not which port he sails, no wind is favorable."  
+“If a man knows not which port he sails, no wind is favorable.”  
 id: 1779
 
 Before seeking efficiency, it’s essential to ask what all this efficiency is for.
@@ -50,6 +50,8 @@ Consider the shallow man who finds success but whose riches and fame are soon fo
 When you picture a productive Stoic, imagine people who are excellent and happy. Their productivity flows from their character. It’s a part of who they are – not inauthentic striving. They work well with others in the best sense: contributing to their communities and cities. If they have the fortune to be able to reflect on their life towards its end, they do so with the satisfaction that they did their best. Without regret or remorse.
 
 So, who would you rather be? Most people want to succeed – but not at the cost of sacrificing their character. To do that, you must ensure you’re headed in the right direction.
+
+A useful diagnostic, drawn from many of the Stoic letters: imagine yourself near the end of your life, looking back. What would you want to be true of how you spent your time? What craft, what relationships, what character would you want to have built? The answers don’t need to be final or complete. They need to be specific enough to point a direction.
 
 There’s no question that Stoics have been productive throughout history. But they’re most productive when they’ve found their craft and intentionally set their purpose. When you seek to get somewhere faster, smarter, and better, ensure you’re on the right path.
 
@@ -98,6 +100,63 @@ Living philosophically puts a question mark next to many of your big decisions. 
 
 You can make progress by looking at examples of the people – past and present – who have lived well. Let them provide something for you to measure up to.
 
+## What is up to you
+
+The Stoics’ most well-known teaching is the dichotomy of control. Some things are up to us; some are not.
+
+What is up to us: our judgments, our intentions, our effort, our attention, what we value, the decisions we make.
+
+What is not up to us: outcomes, the weather, our reputation, the economy, what other people think, much of what happens to our body, and what happens to those we love.
+
+Epictetus opens his *Handbook* with this distinction:
+
+“Some things are up to us and some are not up to us. Our opinions are up to us, our impulses, our desires, our aversions – in short, whatever is our own doing. Our bodies are not up to us, nor are our possessions, our reputations, or our public offices.”  
+Epictetus *Handbook* 1
+
+For productivity, the implication is sharp. A large share of the energy people spend at work is spent on the wrong column.
+
+The salesperson worries whether the deal will close. The deal closing is not up to her. What is up to her: the call she makes today, the question she asks, the follow-up she sends.
+
+The writer worries whether the book will sell. Sales are not up to him. What is up to him: the next paragraph.
+
+The manager loses sleep over how a decision will be received. The reception is not up to him. What is up to him: whether the decision is sound and clearly communicated.
+
+When you spend effort on what is not up to you, that effort doesn’t move the work. It produces frustration. The work you could have done sits undone. This is the productivity cost of misplaced effort.
+
+The benefit of the dichotomy is concrete. You stop spending energy on things that don’t move. You direct your full attention to the only place it can act. You sleep better. You make clearer decisions. The work itself improves because nothing is being skimmed off the top by anxiety about results.
+
+A practical move: when you sit down to work, ask what is up to you here, in this hour. Then do that. When the mind drifts to outcomes – the promotion, the review, the response – name it as the column you can’t act on, and return.
+
+This is not indifference to outcomes. The Stoic still wants the deal to close, the book to sell, the decision to land well. But she knows that wanting them doesn’t make them happen. Doing the work that is hers to do gives her the best chance of a good result, and is the only thing she can answer for.
+
+## The archer’s aim
+
+If the dichotomy of control tells you what to spend your effort on, the reserve clause tells you how to release it.
+
+Cicero gives the image of an archer:
+
+“Take the case of one whose task it is to shoot a spear or arrow straight at some mark. One’s ultimate aim is to do all in one’s power to shoot straight, and the same in the case of our ultimate goal. In this kind of example, it is to shoot straight that one must do all one can; nonetheless, it is to do all one can to accomplish the task that is really the ultimate aim. It is just the same with what we call the supreme good in life. Actually to hit the target is, as we say, to be selected but not sought.”  
+Cicero *De Finibus* 3.22
+
+The archer’s task is to aim well. Whether the arrow hits is not. A gust of wind, a movement in the target, a flaw in the shaft – any of these can intervene between the release and the hit. The archer’s competence is fully expressed at the release.
+
+This is the reserve clause: act with full commitment, fate permitting. Marcus, Seneca, and Epictetus all use the formula. You do everything in your power, and you hold the result loosely.
+
+For productivity, this is the answer to outcome anxiety. Most professionals fuse two things that are separate: the quality of their work and what happens to it. When a pitch is rejected, they conclude the pitch was bad. When a launch underperforms, they conclude they failed. But the quality of the work and what happens to it are governed by different things. You control one. You do not control the other.
+
+The reserve clause separates them. You commit absolutely to the aim. You release the arrow without gripping it.
+
+Epictetus uses a different image – the ball-player:
+
+“Watch a skilled ball player. He doesn’t care about the ball as if it were something good or bad in itself; he only cares how he throws and catches it. He plays with skill and concentration, with grace... So we should also, in the great game of life, exercise the utmost care and skill, but at the same time not give too much value to what we are throwing about.”  
+Epictetus *Discourses* 2.5
+
+Play hard. Don’t grip the ball.
+
+The benefit is two-sided. Your effort goes up because nothing is being held back to protect against disappointment. Your suffering goes down because you stop carrying the result on your back. Many people back off from full commitment because they don’t want to be devastated by failure. The reserve clause solves this: full commitment is safe because the result was never the test.
+
+A practical version: before any meaningful piece of work, name what your aim is – what good execution looks like for you, today, on this thing. Commit to that. Whatever happens with the result, you can answer for the aim.
+
 ## Praemeditatio Malorum
 
 A Stoic doesn’t view the world as they want it to be, but as it truly is. And the truth is, things often don’t go the way we want them to.
@@ -114,7 +173,7 @@ The Stoic visualizes ways things can go wrong for three key reasons.
 
 First, to improve their plans. If you bring to mind ways things may go wrong, you adjust your plans so that you are more likely to succeed. 
 
-The best way to do this is to imagine the world where you fail. Then determine the most likely reason things didn’t go the way you want. Ask, “If I fail, what is most likely to have stopped me?"
+The best way to do this is to imagine the world where you fail. Then determine the most likely reason things didn’t go the way you want. Ask, “If I fail, what is most likely to have stopped me?”
 
 This exercise will bring to mind the most realistic and important obstacles. It helps you make contact with reality. 
 
@@ -122,7 +181,7 @@ Too often we overcommit. Some plans will go awry simply because they are unreali
 
 As Seneca counsels:
 
-"In the meantime, cling tooth and nail to the following rule: not to give in to adversity, not to trust prosperity, and always take full note of fortune’s habit of behaving just as she pleases."  
+“In the meantime, cling tooth and nail to the following rule: not to give in to adversity, not to trust prosperity, and always take full note of fortune’s habit of behaving just as she pleases.”  
 id: 496
 
 Part of this process involves coming to terms with the fact that we cannot know every possible obstacle. Yet there’s something crucial that we can capture just by thinking about ways things can go awry. As the quip goes: “plans are useless, but planning is indispensable.”
@@ -131,7 +190,7 @@ Second, by bringing to mind ways things go wrong we can handle it when they do. 
 
 One of the most powerful Stoic quotes is Seneca reminding us:
 
-"We suffer more often in imagination than in reality."  
+“We suffer more often in imagination than in reality.”  
 id: 366
 
 Third, and this is the most important point, one where Stoicism can take you further than many other schools of thought. By bringing to mind evils you can become invincible to them. 
@@ -148,7 +207,7 @@ The last one is always focused on pushing their business forward. In prosperity 
 
 By seeing things like the last entrepreneur, you can bring the focus back to what is up to you. Acting with excellence and good character. Making good decisions. That’s all.
 
-Fortune will come and go. Setbacks will happen. They always do. But they will not be final. Wherever you are, you can bring to mind your task and do your best to see it through. That’s all you're called to do.
+Fortune will come and go. Setbacks will happen. They always do. But they will not be final. Wherever you are, you can bring to mind your task and do your best to see it through. That’s all you’re called to do.
 
 So, when you visualize bad things happening, remember these three questions:
 
@@ -157,6 +216,10 @@ So, when you visualize bad things happening, remember these three questions:
 * Whatever happens, what is my purpose?
 
 The answer to this last question unlocks the rest. 
+
+There is a complementary practice: visualize the work done well. After running through what could go wrong, see yourself making the call, writing the page, having the conversation – and doing it with the skill you would want. The Stoics rehearse both sides. Marcus does this throughout the *Meditations*: what he is likely to meet, and what good action looks like in the moments that count.
+
+The reserve clause sits between the two. You commit to the action you have rehearsed, and you release the result.
 
 From time to time, practice praemeditatio malorum. Start with realistic, but smaller challenges. Then build to greater ones. Be creative, but realistic. And keep your focus on what matters.
 
@@ -174,7 +237,7 @@ The Stoics believed that we all receive impressions from the world.
 
 When our manager at work says something – we immediately take in the content of their words, the tone, and more. 
 
-Then we reflect on what was said. At this stage, we bring to mind how we can interpret the manager's statement. How does it align with our past experience?
+Then we reflect on what was said. At this stage, we bring to mind how we can interpret the manager’s statement. How does it align with our past experience?
 
 Finally, we decide whether we assent to the impression. Is it true that the manager means what I think they mean?
 
@@ -182,7 +245,7 @@ After making our decision, we act.
 
 This process – of impression, reflection, assent, and action – is instantaneous and ongoing. 
 
-After interpreting the meaning of our manager's statement we may immediately move to other topics, like “My manager is speaking out of line” or “My manager is confused” or “I am doing a bad job” – we must then decide what to do with these impressions.
+After interpreting the meaning of our manager’s statement we may immediately move to other topics, like “My manager is speaking out of line” or “My manager is confused” or “I am doing a bad job” – we must then decide what to do with these impressions.
 
 Unfortunately, many people simply react to their impressions. They don’t spend much time reflecting. They let their decisions be governed by their feelings or other people. Even more of us go on autopilot. We receive impressions – but barely notice them. We sleepwalk through life.
 
@@ -198,7 +261,7 @@ With critical assent, our student said that he was able to find the zone more ea
 
 He was following in the footsteps of Epictetus’s students. Epictetus told his pupils to:
 
-"Make a practice at once of saying to every strong impression: ‘An impression is all you are, not the source of the impression.’ Then test and assess it with your criteria, but one primarily: ask, ‘Is this something that is, or is not, in my control?’"  
+“Make a practice at once of saying to every strong impression: ‘An impression is all you are, not the source of the impression.’ Then test and assess it with your criteria, but one primarily: ask, ‘Is this something that is, or is not, in my control?’”  
 id: 808
 
 The first step to this practice is to simply notice what is happening in your mind. At any moment, cultivate the awareness to know what is happening. 
@@ -223,7 +286,7 @@ Is it always better to do more with less? It depends on what you’re doing.
 
 As Seneca said:
 
-"If a man knows not which port he sails, no wind is favorable."  
+“If a man knows not which port he sails, no wind is favorable.”  
 id: 1779
 
 Let’s understand the idea of indifferents more deeply.
@@ -256,7 +319,7 @@ The technique and strategy you choose depend on the circumstances, your opponent
 
 In life, virtue provides that ultimate goal. How you use indifferents is what makes you virtuous. 
 
-Whenever you're playing a game, what matters is winning. And in complicated games that are like life, there’s no single strategy that works in every situation. You need to know the best practices and strategies – and when to break them. The same principle applies to indifferents like reputation, health, beauty, pleasure, and wealth – each of these things are worth pursuing in some situations, and some ways, but not others. 
+Whenever you’re playing a game, what matters is winning. And in complicated games that are like life, there’s no single strategy that works in every situation. You need to know the best practices and strategies – and when to break them. The same principle applies to indifferents like reputation, health, beauty, pleasure, and wealth – each of these things are worth pursuing in some situations, and some ways, but not others. 
 
 Stoics build the skill to choose indifferents well. They know when to pursue a good reputation – and when to sacrifice their fame for something more important. 
 
@@ -304,20 +367,20 @@ At this crucial point, he reminds himself of his values. Who does he want to be?
 
 He writes:
 
-In the morning when you rise unwillingly, let this thought be present- I am rising to the work of a human being. Why then am I dissatisfied if I am going to do the things for which I exist and for which I was brought into the world?  
-id: ?
+“In the morning, when you rise unwillingly, let this thought be present: I am rising to the work of a human being. Why then am I dissatisfied if I am going to do the things for which I exist and for which I was brought into the world?”  
+Marcus Aurelius *Meditations* 5.1
 
 Sometimes, something should be done, no matter how you feel.
 
 When you’re in those moments, bring to mind who you want to be.
 
-Contrast the world where you follow through with the one where you fail. At first, both are possible. Make the world where you fail an impossibility. Use the contrast between success and laziness as fuel. The essential point is to keep in mind your values and who you want to be. This is what we see Marcus Aurelius do over and over again in his Meditations. By historical accounts of his reign as emperor, it worked. 
+Hold the contrast clearly. The day where you do the work, and the day where you do not. Both are real possibilities at the moment of rising. Then choose the one that lines up with who you want to be. This is what we see Marcus Aurelius do over and over again in his Meditations – not as a single act of will, but as a daily return to his values. 
 
 Remember that the point is to build habits. The ancient philosophers didn’t think about ethics in terms of single decisions. Instead, they saw the project of living as a long term one where you build character. 
 
 As Epictetus says:
 
-"If you wish to be a writer, write."  
+“If you wish to be a writer, write.”  
 id: 290
 
 Bring to mind urgency. You do not live forever. You will only have this chance once.
@@ -358,13 +421,13 @@ Don’t waste the day – otherwise you risk postponing tomorrow too.
 
 As Epictetus says:
 
-"If you like doing something, do it regularly; if you don’t like doing something, make a habit of doing something different. The same goes for moral inclinations. When you get angry, you should know that you aren’t guilty of an isolated lapse, you’ve encouraged a trend and thrown fuel on the fire."
+“If you like doing something, do it regularly; if you don’t like doing something, make a habit of doing something different. The same goes for moral inclinations. When you get angry, you should know that you aren’t guilty of an isolated lapse, you’ve encouraged a trend and thrown fuel on the fire.”
 
 id: 683
 
 ## Success Spirals
 
-If you succeed at one task, you'll increase the expectation that you'll succeed at the next one. 
+If you succeed at one task, you’ll increase the expectation that you’ll succeed at the next one. 
 
 Take advantage of success spirals – build on one success after another.
 
@@ -400,7 +463,7 @@ Try both of these strategies. When you break down tasks, you can weave them toge
 
 Let’s end with some motivation from Epictetus:
 
-"If you come up against anything that requires an effort, or is pleasant, or is glorious or inglorious, remember that this is the time of the contest, that the Olympic Games have now arrived, and there is no possibility of further delay, and that it depends on a single day and single action whether progress is to be lost or secured."  
+“If you come up against anything that requires an effort, or is pleasant, or is glorious or inglorious, remember that this is the time of the contest, that the Olympic Games have now arrived, and there is no possibility of further delay, and that it depends on a single day and single action whether progress is to be lost or secured.”  
 id: 1867
 
 ## Cultivate self-respect
@@ -427,19 +490,19 @@ Handbook, 49
 
 Epictetus shows his students that their self-image does not line up with reality. This should motivate them to be better. Forming and reinforcing our self-image is a part of the project of shaping our character. 
 
-The Stoics see shame as the fear of disgrace. When we’re ashamed we want to hide what we've done from ourselves and others. The fear of public humiliation keeps many from acting virtuously. It has prevented many from living the life they want to lead.
+The Stoics see shame as the fear of disgrace. When we’re ashamed we want to hide what we’ve done from ourselves and others. The fear of public humiliation keeps many from acting virtuously. It has prevented many from living the life they want to lead.
 
 And yet the judgment of others is not up to us. It’s not what ultimately matters.
 
-So, there’s an unhealthy aspect of shame – one that keeps people from living freely and honestly. Life isn't about chasing applause or running from embarrassment. Whether or not we are praised or humiliated by others is external. So, we cannot let it determine how we live.
+So, there’s an unhealthy aspect of shame – one that keeps people from living freely and honestly. Life isn’t about chasing applause or running from embarrassment. Whether or not we are praised or humiliated by others is external. So, we cannot let it determine how we live.
 
-But shame can also be healthy, when it helps you cultivate self-respect. I won't betray my friend if I know I am the kind of person who is above betrayal. I won't miss a deadline if I see myself as someone who turns in work on time. 
+But shame can also be healthy, when it helps you cultivate self-respect. I won’t betray my friend if I know I am the kind of person who is above betrayal. I won’t miss a deadline if I see myself as someone who turns in work on time. 
 
-Many are dependent on others' approval. But self-respecting people are free. They set the standards for their own behavior and depend only on their self-image.
+Many are dependent on others’ approval. But self-respecting people are free. They set the standards for their own behavior and depend only on their self-image.
 
 When you fail to live up to your standards, some amount of embarrassment is appropriate. Use that as fuel to act better next time. 
 
-There’s a story about the philosopher Diogenes. He wandered through Athens with a lamp. When asked why he went about with a lamp in broad daylight, Diogenes said, "I am looking for an honest man." Seeing a young man blush, he remarked that it was what virtue looked like.
+There’s a story about the philosopher Diogenes. He wandered through Athens with a lamp. When asked why he went about with a lamp in broad daylight, Diogenes said, “I am looking for an honest man.” Seeing a young man blush, he remarked that it was what virtue looked like.
 
 The young man’s embarrassment is the beginning of self-transformation and respect.
 
@@ -468,18 +531,18 @@ So, when you say: ‘Take the treatise on the active powers, and see how I have 
 I reply, ‘Slave, I am not inquiring about this, but how you exercise pursuit and avoidance, desire and aversion, how you design and purpose and prepare yourself, whether conformably to nature or not.’”  
 id: ?
 
-What matters is an athlete's strength, not his equipment. What matters for a philosopher is his thoughts and decisions, not books or academic learning.
+What matters is an athlete’s strength, not his equipment. What matters for a philosopher is his thoughts and decisions, not books or academic learning.
 
 The good news is, discovering what to do is often simple. When a student asked about becoming an Olympic wrestler, Epictetus answered:
 
-"So you wish to conquer in the Olympic Games, my friend? And I, too... But first mark the conditions and the consequences. You will have to put yourself under discipline; to eat by rule, to avoid cakes and sweetmeats; to take exercise at the appointed hour whether you like it or not, in cold and heat; to abstain from cold drinks and wine at your will. Then, in the conflict itself you are likely enough to dislocate your wrist or twist your ankle, to swallow a great deal of dust, to be severely thrashed, and after all of these things, to be defeated."  
+“So you wish to conquer in the Olympic Games, my friend? And I, too... But first mark the conditions and the consequences. You will have to put yourself under discipline; to eat by rule, to avoid cakes and sweetmeats; to take exercise at the appointed hour whether you like it or not, in cold and heat; to abstain from cold drinks and wine at your will. Then, in the conflict itself you are likely enough to dislocate your wrist or twist your ankle, to swallow a great deal of dust, to be severely thrashed, and after all of these things, to be defeated.”  
 id: 309
 
 The point? No nonsense. Go directly to the goal. To be an Olympic champion, do what a champion does.
 
 He also says:
 
-"If you wish to be a writer, write."  
+“If you wish to be a writer, write.”  
 id: 290
 
 Ask who you would be and then determine how to be that person. 
@@ -488,11 +551,91 @@ If you need more information, seek it. When you have enough information, act. Go
 
 There’s nothing more to it.
 
+## Care for the body
+
+The body is the instrument. You cannot do good work for long with an instrument you ignore.
+
+The Stoics, despite their reputation as creatures of pure mind, were clear-eyed about this. Musonius Rufus, the teacher of Epictetus, devoted lectures to food, sleep, clothing, and exercise – not as ends, but as the conditions for everything else.
+
+“We use the body for all the actions of life... if we wish then to perform our duties as men, we ought to keep the body in such condition that we can use it for our work.”  
+Musonius Rufus *Lectures* 6
+
+Modern productivity culture often divides into two camps: people who treat the body as an enemy to be overridden with caffeine and willpower, and people who treat it as a vanity project. The Stoic view is neither. The body is the instrument by which any work gets done. It deserves competent care for that reason.
+
+Three concrete points the Stoics make.
+
+Sleep. Marcus argues with himself in the morning about getting up – but the larger pattern in the *Meditations* is sleep when it is time to sleep, rise when it is time to rise. Not heroic sleep deprivation. Stoic productivity does not run on willpower extracted from a tired body.
+
+Food. Musonius is plain: eat for nourishment, not for pleasure or display. The point is not asceticism for its own sake. It is that food and drink, when treated as entertainment, take more from the day than they give. Heavy meals slow afternoons. Drink steals mornings.
+
+Movement. Seneca writes to Lucilius about brief, regular exercise as the substrate of mental work. Not training for a competition. Enough to keep the body capable.
+
+The benefit of attending to this is direct: most productivity problems people attribute to discipline are actually problems of sleep, blood sugar, or sedentary fatigue. You cannot judge well, sustain attention, or recover from setbacks on a body you are mistreating.
+
+A practical move: when work feels harder than it should, before reaching for a new technique, check the substrate. Did you sleep? Did you eat something that holds? Have you moved today? These are not preliminaries to the work. They are part of it.
+
+The Stoic does not pamper the body, and does not punish it. He treats it as the instrument it is, and he keeps it in working order.
+
+## Prosoche — the daily loop
+
+The Greek philosophers had a name for the basic practice that holds the rest of Stoicism together: *prosoche*. Continuous attention. The watchfulness that notices what you are doing, what you are about to do, and what you are tempted to do – moment by moment.
+
+Pierre Hadot, the historian of ancient philosophy, called prosoche the fundamental Stoic spiritual attitude. Every other Stoic practice – checking impressions, applying the dichotomy of control, holding the reserve clause, returning to your purpose – depends on it. Without prosoche, the techniques are things you read once and forget by Tuesday.
+
+Prosoche is not an extra task. It is a quality you bring to the tasks you already have.
+
+The practice has three traditional anchors.
+
+Morning. Before the day begins, set the orientation. Marcus opens many of his entries with a version of: today I will meet with the meddling, the ungrateful, the arrogant – and I will do my work anyway. The morning prompt is simple: what is mine to do today, and what is likely to pull me off it?
+
+During the day. Return. The Stoic does not expect uninterrupted focus. He expects to drift and to return. Each return is the practice.
+
+Evening. Seneca describes his nightly review:
+
+“I make use of this opportunity, daily pleading my case before myself. When the light is taken away, and my wife has fallen silent, aware of this habit that’s now mine, I examine my entire day, going through what I’ve done and said, hiding nothing from myself, passing nothing by.”  
+Seneca *On Anger* 3.36
+
+The evening review is short. Three questions are enough: what did I do well, where did I fall short, what will I do differently tomorrow?
+
+Prosoche is cultivated in many ways, and the app is built for several of them. Meditation trains the basic capacity – noticing the mind, returning when it wanders, not being dragged. The other courses and routines train specific applications: handling difficult emotions, working with impressions, sitting with discomfort. A daily check-in builds the morning and evening loop directly. None of these is a substitute for the others. They reinforce each other.
+
+The benefit of prosoche is the integration of everything else. A practitioner with prosoche notices when she is spending effort on what isn’t up to her, and redirects. She notices when she is gripping the result, and releases. She notices the impression before she acts on it. She notices that she has not eaten or slept enough, and adjusts. The frames you have learned start to operate on their own, because attention is in place to apply them.
+
+A practitioner without prosoche has read the same things and forgotten them within the week.
+
+If you take one habit from this course, take this one: a short morning orientation, attention during the work, a short evening review. Done daily, this is what makes the rest of Stoicism a way of life rather than a topic.
+
+## Guarding the day
+
+Seneca’s *On the Shortness of Life* opens with a complaint he heard often, and rejects:
+
+“It is not that we have a short time to live, but that we waste a lot of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested... so it is: we are not given a short life but we make it short, and we are not ill-supplied but wasteful of it.”  
+Seneca *On the Shortness of Life* 1
+
+His argument is that we treat time as cheap because we cannot see it leaving. We guard our money, which is replaceable. We give away our time, which is not.
+
+The productivity consequence is direct. The largest threat to a productive day is not inefficiency within the work. It is the quiet erosion of the day by claims on it that you did not choose.
+
+Seneca lists the people he has in mind: those who spend their hours at the door of powerful patrons, those who throw their day to the demands of others without examining whether the demand deserves the day, those who postpone their real work to a time that never comes.
+
+The modern equivalents are not hard to name. The unsolicited meeting. The message that asks for an immediate answer when no immediate answer is needed. The errand absorbed because it was easier to absorb than to refuse. The reflexive yes.
+
+The Stoic move is to audit. Where did the day actually go? Not where you intended it to go – where it went. Most people who do this honestly discover that a substantial fraction of their week was given to claims they would not have agreed to in advance.
+
+The remedy is not to become unhelpful or unavailable. The remedy is to treat your time as something you are responsible for, and to refuse claims on it when refusal is the right answer. Seneca again:
+
+“People are frugal in guarding their personal property; but as soon as it comes to squandering time they are most wasteful of the one thing in which it is right to be stingy.”  
+Seneca *On the Shortness of Life* 3
+
+A practical version: at the start of the week, name the two or three things that, if done, will make this week count. Defend the time required for them first. Fit the rest around that, not the reverse.
+
+Saying no is not a productivity hack. It is what taking your time seriously looks like in practice. The benefit is straightforward: a week in which the things that mattered actually got done, rather than a week in which you were busy.
+
 ## Use urgency
 
 Marcus Aurelius once said:
 
-"Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good."  
+“Do not act as if you were going to live ten thousand years. Death hangs over you. While you live, while it is in your power, be good.”  
 id: 915
 
 The essence of productivity is doing more with less and ensuring that our work is meaningful.
@@ -501,28 +644,21 @@ Because our lives are finite, it’s an essential art. As each moment passes, we
 
 As the Roman poet Horace said:
 
-"Life ebbs as I speak – so seize each day, and grant the next no credit."  
+“Life ebbs as I speak – so seize each day, and grant the next no credit.”  
 id: 1877
 
 Remember this when you’re stuck. If you think you’re wasting time bring to mind the same words the Roman emperor did:
 
-"In everything that you do, pause and ask yourself if death is a dreadful thing because it deprives you of this."  
+“In everything that you do, pause and ask yourself if death is a dreadful thing because it deprives you of this.”  
 id: 230
 
 You can’t realistically live each day as if it were your last. But you must face the reality that time is finite. Synthesize the perspective of today with the reality of an uncertain future.
 
-Think of yourself as running a relay race. Live each day as if it were your last. Then turn it over to the self of tomorrow. Like any relay race runner, you need to pace yourself. You can’t and shouldn’t live each day as if there were no tomorrow. But you can give today your all. 
+Think of yourself as running a relay race. Give the day what it asks for, then hand it off to the self of tomorrow. Like any relay-race runner, you need to pace yourself. You can’t and shouldn’t live each day as if there were no tomorrow. But you can give today your full attention.
 
-Remember the myth of the Phoenix – the mythical bird who rises, lives brightly for a day, then returns to ash. Only to rise again from the ashes tomorrow.
+The benefit of holding mortality in mind is not panic. It is clarity. The decisions that matter become easier to see. The work that doesn’t matter is easier to set down. Urgency, for the Stoic, is steady, not frantic.
 
-Never forget the lines of Marcus Aurelius:
-
-“Do not act as if you are going to live ten thousand years. Death hangs over you. While you live while it is in your power, be good.”  
-id: ?
-
-## 
-
-## 
+Today is what you have. Begin with what is in front of you, and do it well.
 
 # Rejected
 
@@ -537,7 +673,7 @@ Epictetus, Handbook 2
 
 If you want to become great – at work, your craft, relationships – do the things required. Follow Epictetus’s words:
 
-"When trouble comes, think of yourself as a wrestler whom God, like a trainer, has paired with a tough young fighter. For what purpose? To turn you into Olympic-class material. But this is going to take some sweat to accomplish."  
+“When trouble comes, think of yourself as a wrestler whom God, like a trainer, has paired with a tough young fighter. For what purpose? To turn you into Olympic-class material. But this is going to take some sweat to accomplish.”  
 id: 1816
 
 For the things you must do, go above and beyond. Do what would make others uncomfortable. Whether that means starting up earlier, mastering boring details, listening deeply to everyone you meet – whatever it is.
@@ -550,5 +686,5 @@ Embrace the difficulty. Learn to love it. And live well.
 
 Let’s end with a powerful line from the philosopher Nietzsche:
 
-"My formula for what is great in mankind is amor fati: not to wish for anything other than that which is; whether behind, ahead, or for all eternity. Not just to put up with the inevitable--much less to hide it from oneself, for all idealism is lying to oneself in the face of the necessary-but to love it."  
+“My formula for what is great in mankind is amor fati: not to wish for anything other than that which is; whether behind, ahead, or for all eternity. Not just to put up with the inevitable--much less to hide it from oneself, for all idealism is lying to oneself in the face of the necessary-but to love it.”  
 id: 1765  
