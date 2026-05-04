@@ -22,20 +22,34 @@ with `1. # Lesson Title`, matching the format used in
 ## Quote
 
 Pick a quote from the source material when one is provided. Aim for accuracy:
-match the wording of the cited translation, do not paraphrase silently. If no
-quote is provided, generate one only as a last resort and mark it clearly so an
-editor can replace it.
+match the wording of the cited translation, do not paraphrase silently.
+
+When no quote is provided, look one up in `resources/quotes/quotes.md` — the
+exported Stoa quote library, with `Quote ID` and `Sentence IDs` already
+assigned. Use the `Quote ID` from that file verbatim as the `Id` in the
+lesson; do not invent IDs. Only fall back to a quote that is not in the export
+as a last resort, and mark it clearly so an editor can replace it.
+
+When choosing across a multi-lesson routine, vary the opening of the quotes.
+The library skews heavy on quotes that start with "It is...", "We...", and
+"When..."; pulling several of those in a row reads as monotone.
+
+Favor short quotes (under 5 sentences). Long quotes overflow the in-app quote
+card. If a longer passage is the right one philosophically, trim to the
+load-bearing sentences and use the rest in the theory or meditation body.
 
 Format:
 
 ```
-“Quote text here.”
-Id: 1234
+“Never let the future disturb you. You will meet it, if you have to, with the
+same weapons of reason which today arm you against the present.”
+Id: 14
 Source: Meditations
-Location: 6.11
+Location: 7.8
 ```
 
-Leave `Id`, `Source`, or `Location` blank if unknown. Do not invent IDs.
+Leave `Source` or `Location` blank if unknown. The `Id` should always be
+present when the quote came from `resources/quotes/quotes.md`.
 
 ## Theory
 
@@ -172,8 +186,9 @@ Move to `content/routine/final/` once approved.
 These are suggestions to consider, not rules:
 
 1. **Add a sentence ID lookup step.** Drafts often have `Sentence_ID: xxx`
-   placeholders. A quick pass to fill these from `metadata/` (or flag the ones
-   that need a new ID) would save editor time later.
+   placeholders. A quick pass to fill these from `resources/quotes/quotes.md`
+   (which lists `Quote ID` and `Sentence IDs` for each quote) or flag the ones
+   that need a new ID would save editor time later.
 2. **Standardize pause durations.** Existing routines vary from 4 to 60
    seconds with no clear rationale. A short rubric (for example: 4 to 10 for
    transitions, 20 to 30 for reflection prompts, 40 to 60 for deep
