@@ -112,6 +112,10 @@ When picking quotes for a series, vary the opening — many Marcus and Seneca
 quotes begin with the same few words ("It is...", "We...", "When..."). A
 playlist that opens every lesson with the same cadence reads as monotone.
 
+Favor short quotes (under 5 sentences). Longer passages overflow the in-app
+quote card. If a longer quote is the right one philosophically, trim to the
+load-bearing sentences and weave the rest into the surrounding prose.
+
 ## Out of scope
 
 The following Drive items are intentionally not synced into this repo:

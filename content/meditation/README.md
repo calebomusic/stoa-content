@@ -122,4 +122,7 @@ A new meditation series should aim for all seven of these.
   library skews to quotes that start with "It is...", "We...", and
   "When..."; opening several sessions with the same cadence reads as
   monotone.
+- Favor short quotes (under 5 sentences). Longer passages overflow the
+  in-app quote card. If a longer quote is the right one, trim to the
+  load-bearing sentences and use the rest inside the meditation script.
 - See `../../README.md` for the repo-level frontmatter schema and slug rules.

@@ -34,6 +34,10 @@ When choosing across a multi-lesson routine, vary the opening of the quotes.
 The library skews heavy on quotes that start with "It is...", "We...", and
 "When..."; pulling several of those in a row reads as monotone.
 
+Favor short quotes (under 5 sentences). Long quotes overflow the in-app quote
+card. If a longer passage is the right one philosophically, trim to the
+load-bearing sentences and use the rest in the theory or meditation body.
+
 Format:
 
 ```
