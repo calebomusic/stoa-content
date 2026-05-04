@@ -21,6 +21,7 @@ metadata/
   routine_playlists.json       # RoutinePlaylist.id <-> title map
 resources/
   podcast/<slug>.md            # Stoa Conversations podcast transcripts
+  quotes/quotes.md             # Exported Stoa quote library (ID + sentence IDs)
 ```
 
 Type resolution: when a doc's title exactly matches a row in `metadata/*.json`,
@@ -84,6 +85,32 @@ punctuation reflow. Treat them as searchable references, not publishable
 copy.
 
 [playlist]: https://www.youtube.com/playlist?list=PLIQ69U4Ez45-UsP4WqlEG_1Q0rARkqbk9
+
+### `resources/quotes/`
+
+Single-file export of the Stoa quote library (`quotes.md`). Each quote is a
+top-level section with the author, the in-app `Quote ID`, the linked
+`Sentence IDs` (or `—` if none), and the quote text as a blockquote:
+
+```
+## Marcus Aurelius — Quote #14
+
+- **Author:** Marcus Aurelius
+- **Quote ID:** 14
+- **Sentence IDs:** 1003
+
+> Never let the future disturb you. You will meet it, if you have to, with
+> the same weapons of reason which today arm you against the present.
+```
+
+`Quote ID` and `Sentence IDs` are the canonical identifiers used by the app.
+Use them verbatim when citing a quote in a routine, meditation, or theory
+draft. Do not invent IDs. If a quote you want to use is not in the export,
+flag it for an editor instead of guessing.
+
+When picking quotes for a series, vary the opening — many Marcus and Seneca
+quotes begin with the same few words ("It is...", "We...", "When..."). A
+playlist that opens every lesson with the same cadence reads as monotone.
 
 ## Out of scope
 

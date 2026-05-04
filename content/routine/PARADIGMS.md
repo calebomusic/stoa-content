@@ -20,7 +20,7 @@ Close by calling back to the opening quote.
 - **Earn opinions.** The strongest routines are willing to say something pointed. Avoid hedged, generic-mindfulness phrasing.
 - **Acknowledge the listener's reality** before prescribing — especially on heavy themes (grief, failure, lapsed practice).
 - **Posture-as-disposition cues** beat generic "find a comfortable position." (e.g. "Sit like someone who is ready to act.")
-- **Quote integration**: introduce, contextualize, then quote. Don't drop quotes cold into the body.
+- **Quote integration**: introduce, contextualize, then quote. Don't drop quotes cold into the body. Pull quotes from `resources/quotes/quotes.md` and cite the `Quote ID` so they link cleanly into the app. Vary the openings across a series — the library leans heavily on quotes starting with "It is...", "We...", and "When...", and stacking those reads as monotone.
 - **Faithfulness**: cite primary sources (Epictetus, Marcus, Seneca, Musonius, Stobaeus). Use the actual Stoic taxonomy, not folk-ethics glosses.
 - **Concrete vignettes** beat abstract examples (the bike-mechanic moment in Justice; Hugh Thompson at My Lai for courage).
 

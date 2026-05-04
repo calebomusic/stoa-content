@@ -33,7 +33,7 @@ Use these as a checklist when commissioning or reviewing new theory content.
 - **Anticipate the misreading.** The strongest pieces name the wrong reading of a doctrine before defending the right one (e.g. "control isn't really about control"; "Stoicism isn't unrealistic optimism").
 - **Layered structure.** Multi-lesson courses build, they don't just enumerate. Each lesson should make the previous one bigger.
 - **Earn the payoff.** End lessons with a concrete action, a primary-source quote that lands harder for the prior context, or a structural payoff (now you understand X).
-- **Primary-source quotes do work.** The best quotes are short, in context, and immediately reframed in the writer's own voice — not block-quoted as decoration.
+- **Primary-source quotes do work.** The best quotes are short, in context, and immediately reframed in the writer's own voice — not block-quoted as decoration. Pull them from `resources/quotes/quotes.md` (the exported Stoa quote library) and cite the `Quote ID` so they link into the app. Across a multi-lesson piece, vary the openings — many quotes in the library begin with "It is...", "We...", or "When...", and stacking those reads as monotone.
 - **Modern bridges are welcome.** Nesse, Gallwey, Taleb, Frankl, Lisa Feldman Barrett are used integratively. The bar: the modern source must be doing something the Stoic source isn't already doing on its own.
 
 ## Anti-patterns to avoid

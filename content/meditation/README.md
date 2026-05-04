@@ -114,5 +114,12 @@ A new meditation series should aim for all seven of these.
 - Pause durations are bare numbers (in seconds) on their own line, e.g. `30`.
 - Quote attributions reference internal IDs where available, e.g.
   `id: 1689`. Use these consistently — they are how quotes are linked into
-  the app.
+  the app. Look up `Quote ID` and `Sentence IDs` in
+  `resources/quotes/quotes.md` (the exported Stoa quote library); do not
+  invent IDs. If the quote you want is not in the export, leave the ID blank
+  and flag it for an editor.
+- When picking quotes across a multi-session playlist, vary the opening. The
+  library skews to quotes that start with "It is...", "We...", and
+  "When..."; opening several sessions with the same cadence reads as
+  monotone.
 - See `../../README.md` for the repo-level frontmatter schema and slug rules.
