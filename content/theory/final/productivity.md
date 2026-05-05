@@ -159,55 +159,25 @@ A practical version: before any meaningful piece of work, name what your aim is 
 
 ## Praemeditatio Malorum
 
-A Stoic doesn’t view the world as they want it to be, but as it truly is. And the truth is, things often don’t go the way we want them to.
+A Stoic doesn’t view the world as they want it to be, but as it truly is. And the truth is, things often don’t go the way we want them to. Whatever plans, goals, or timelines you have – the larger world doesn’t care. It will dash them against the rocks.
 
-Whatever plans, goals, or timelines you have – the larger world doesn’t care. It will dash them against the rocks.
+The Stoics took pride in not shrinking from this reality. They practiced negative visualization, *praemeditatio malorum* – the premeditation of evils. They did so for three reasons.
 
-Stoics take pride in not shrinking away from this reality. Indeed, they actively practice negative visualization.
-
-They called this practice praemeditatio malorum – or the premeditation of evils.
-
-Let’s discuss why you’d do this practice and then how to get the most out of it. 
-
-The Stoic visualizes ways things can go wrong for three key reasons. 
-
-First, to improve their plans. If you bring to mind ways things may go wrong, you adjust your plans so that you are more likely to succeed. 
-
-The best way to do this is to imagine the world where you fail. Then determine the most likely reason things didn’t go the way you want. Ask, “If I fail, what is most likely to have stopped me?”
-
-This exercise will bring to mind the most realistic and important obstacles. It helps you make contact with reality. 
-
-Too often we overcommit. Some plans will go awry simply because they are unrealistic. By confronting this fact we can improve our thinking. Like an athlete visualizing different moves of their opponent, we can form a game plan and prepare, to the extent that we can, for the curveballs life will throw at us.
+First, to improve their plans. Imagine the world where you fail. Then ask: if I fail, what is most likely to have stopped me? This brings the realistic and important obstacles to mind, not the dramatic ones. It helps you make contact with reality and adjust before reality forces the adjustment for you.
 
 As Seneca counsels:
 
 “In the meantime, cling tooth and nail to the following rule: not to give in to adversity, not to trust prosperity, and always take full note of fortune’s habit of behaving just as she pleases.”  
 id: 496
 
-Part of this process involves coming to terms with the fact that we cannot know every possible obstacle. Yet there’s something crucial that we can capture just by thinking about ways things can go awry. As the quip goes: “plans are useless, but planning is indispensable.”
+We cannot know every possible obstacle. But the act of thinking about them is itself useful. As the quip goes: “plans are useless, but planning is indispensable.”
 
-Second, by bringing to mind ways things go wrong we can handle it when they do. Often anticipation is worse than the event itself. To combat this, bring to mind whatever you fear. Imagine that it comes to pass. And then visualize yourself handling it with skill.
-
-One of the most powerful Stoic quotes is Seneca reminding us:
+Second, to handle setbacks when they come. Often the anticipation is worse than the event. Bring to mind whatever you fear, imagine it coming to pass, and visualize yourself handling it with skill. Seneca:
 
 “We suffer more often in imagination than in reality.”  
 id: 366
 
-Third, and this is the most important point, one where Stoicism can take you further than many other schools of thought. By bringing to mind evils you can become invincible to them. 
-
-Through this practice you can internalize the idea that things in themselves cannot hurt you. Only your opinion of them can. 
-
-In other words, by practicing praemeditatio malorum well you will internalize Stoic value theory. This provides a new meaning to your productive endeavors. Setbacks and obstacles are not evil. What matters is whether you perform your task well. To see this in action, consider three business owners. 
-
-The first is unrealistically optimistic. They never consider the fact that there could be a significant market downturn. As such, when the economy tightens up, they are not prepared psychologically or strategically for that reality.
-
-The second one is too pessimistic. They constantly worry that a downturn will crush their business. When the downturn happens, they immediately move into crisis management. They react to the situation. 
-
-The last one is always focused on pushing their business forward. In prosperity or poverty. When the market takes a dip down, they are not surprised – that’s something that markets do. Instead, they immediately realize what they must do. They take advantage of the moment.
-
-By seeing things like the last entrepreneur, you can bring the focus back to what is up to you. Acting with excellence and good character. Making good decisions. That’s all.
-
-Fortune will come and go. Setbacks will happen. They always do. But they will not be final. Wherever you are, you can bring to mind your task and do your best to see it through. That’s all you’re called to do.
+Third – and this is where Stoicism goes further than most schools – to become harder to harm. Practiced well, *praemeditatio malorum* internalizes the Stoic claim that things in themselves cannot hurt you, only your judgments of them. Setbacks and obstacles are not evil. What matters is whether you perform your task well. Fortune will come and go. Wherever you are, you can bring to mind your task and do your best to see it through. That is all you are called to do.
 
 So, when you visualize bad things happening, remember these three questions:
 
@@ -227,56 +197,28 @@ From time to time, practice praemeditatio malorum. Start with realistic, but sma
 
 In one of the final lessons from our live courses, a student shared that this simple Stoic technique made him more productive and happier at work than anything else he tried.
 
-It’s called critical assent. 
+It’s called critical assent.
 
-Fundamentally it’s simple: pay attention and don’t agree to anything that is false.
+Fundamentally it’s simple: pay attention to the impressions that arise in your mind, and don’t agree to anything that is false.
 
-To understand it more deeply, we need to know the Stoic theory of the mind.
+The Stoics believed that we receive impressions from the world – the words a manager says, the tone they use, the look on their face. We then interpret those impressions: *my manager is upset; my manager is confused; I am doing a bad job.* Then we assent or refuse. Then we act. This whole sequence – impression, reflection, assent, action – is instantaneous and ongoing.
 
-The Stoics believed that we all receive impressions from the world. 
+The trouble is that most of it happens without notice. People react to their impressions without reflecting. They let feelings or peer pressure decide. Or they go on autopilot, receiving impressions but barely registering them. None of these ways of working is productive. If you aren’t paying attention, you won’t learn. If you’re always reacting, you’ll make worse decisions.
 
-When our manager at work says something – we immediately take in the content of their words, the tone, and more. 
+Critical assent is the practice of catching the sequence and intervening at the assent step. You notice the impression. You hold it for a moment. You decide whether it’s true.
 
-Then we reflect on what was said. At this stage, we bring to mind how we can interpret the manager’s statement. How does it align with our past experience?
+This opens space to ignore distractions, to think strategically, and to commit to the work in front of you. With critical assent, the student said, he found the zone more easily, interactions went more smoothly, and he could focus for longer. Just by reminding himself, again and again, to notice each impression before agreeing to it.
 
-Finally, we decide whether we assent to the impression. Is it true that the manager means what I think they mean?
-
-After making our decision, we act.
-
-This process – of impression, reflection, assent, and action – is instantaneous and ongoing. 
-
-After interpreting the meaning of our manager’s statement we may immediately move to other topics, like “My manager is speaking out of line” or “My manager is confused” or “I am doing a bad job” – we must then decide what to do with these impressions.
-
-Unfortunately, many people simply react to their impressions. They don’t spend much time reflecting. They let their decisions be governed by their feelings or other people. Even more of us go on autopilot. We receive impressions – but barely notice them. We sleepwalk through life.
-
-These ways of life are simply not productive. 
-
-If we’re not paying attention, we won’t learn as much. If we’re always reacting, we’ll make worse decisions.
-
-Critical assent involves paying attention to our impressions at every moment. And then critically deciding whether we should assent to them.
-
-This opens up a space to ignore distractions, think through what to do strategically, and then commit to getting it done well.
-
-With critical assent, our student said that he was able to find the zone more easily. Interactions with others went more smoothly. He was able to focus for longer periods of time. Simply by reminding himself, again and again to notice and then critically assent to every impression.
-
-He was following in the footsteps of Epictetus’s students. Epictetus told his pupils to:
+He was following Epictetus, who told his pupils:
 
 “Make a practice at once of saying to every strong impression: ‘An impression is all you are, not the source of the impression.’ Then test and assess it with your criteria, but one primarily: ask, ‘Is this something that is, or is not, in my control?’”  
 id: 808
 
-The first step to this practice is to simply notice what is happening in your mind. At any moment, cultivate the awareness to know what is happening. 
+The first step is the simplest: notice what is happening in your mind. The second is to refuse to act on what is false – including narratives you tell yourself. *I’m not a details person. He’s out to get me. This is hopeless.* These are impressions, not facts. Look at the actual evidence.
 
-Then move to reflection and assent. Do not go along with whatever feels better or give into peer pressure. Carefully and critically decide to act on what is true.
+When done well, critical assent is calming. The mind that constantly chases the next impression is exhausted. The mind that catches each one and tests it stays in the present, where the work actually happens.
 
-If your manager is acting out of line, you may be tempted to make excuses for their behavior if that’s what everyone else is doing. Peer pressure may distort the way you see the world and, if you are not careful, cause you to see things in an incorrect way.
-
-Take another example. You may say you’re not good at noticing things around you because you’re not a “details person.” But is that story really true? This is where critical assent comes in. Look at reality. Don’t blindly accept narratives from others or even yourself.
-
-Surprisingly, when done right, critical assent can be calming. If we carefully notice and pay attention to whatever is arising we avoid moving our attention from one thing to the next. That process of constant external stimulation is fatiguing. Critical assent brings us to the present and cultivates our focus. Tranquility can be found in this practice.
-
-As Epictetus says, the best way to get going with this practice is to apply a principle to your impressions. Namely, if you’re judging something as good or bad, ask, is this up to me? What is up to me here?
-
-At work, you cannot manage the behavior of others, customers, clients, whatever it is. You can control your own behavior. You can show your skill and expertise – and how quickly you learn.
+Epictetus offers the most useful test to apply: when you judge something as good or bad, ask – *is this up to me?* At work, you cannot manage the behavior of customers, clients, or colleagues. You can manage your own. You can show your skill, and how quickly you learn.
 
 ## Productivity is indifferent
 
@@ -652,9 +594,11 @@ Remember this when you’re stuck. If you think you’re wasting time bring to m
 “In everything that you do, pause and ask yourself if death is a dreadful thing because it deprives you of this.”  
 id: 230
 
-You can’t realistically live each day as if it were your last. But you must face the reality that time is finite. Synthesize the perspective of today with the reality of an uncertain future.
+You can’t realistically live each day as if it were your last. But you must face the reality that time is finite. The lesson on guarding the day approached this from one side – defending your time from the unchosen claims of others. Mortality approaches it from the other – the claim time has on you whether or not you notice.
 
-Think of yourself as running a relay race. Give the day what it asks for, then hand it off to the self of tomorrow. Like any relay-race runner, you need to pace yourself. You can’t and shouldn’t live each day as if there were no tomorrow. But you can give today your full attention.
+A practical version of the Stoic prompt: at the end of a stretch of work – an hour, an afternoon, a week – ask, *if I knew this were among my last hours, would I be glad I spent them this way?* The answer is rarely a clean yes or no. It is a direction. Some hours pass the test. Some don’t. The ones that don’t are not lost; they are information about what to change.
+
+This is not a call to live each day as if it were your last in the literal sense. That advice, taken at face value, makes for poor decisions. Think of yourself as running a relay race. Give the day what it asks for, then hand it off to the self of tomorrow. Like any relay-race runner, you need to pace yourself. But you can give today your full attention.
 
 The benefit of holding mortality in mind is not panic. It is clarity. The decisions that matter become easier to see. The work that doesn’t matter is easier to set down. Urgency, for the Stoic, is steady, not frantic.
 
