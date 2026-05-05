@@ -26,46 +26,61 @@ The selection is shaped by two filters:
 
 ---
 
-## Lesson 1 — Zeno the Shipwrecked
+## Lesson 1 — Zeno the Entrepreneur
 
-**Virtue:** turning loss into a life.
+**Virtue:** resourcefulness — meeting circumstance with philosophical creativity.
 
-- Thesis: Stoicism itself begins with a man losing everything he owned and choosing what to do next.
-- Biographical anchor: Phoenician merchant from Citium, ~334–262 BC. Lost his cargo of purple dye in a shipwreck near Athens, wandered into a bookshop, read Xenophon's *Memorabilia*, asked the bookseller where he could find a man like Socrates. The bookseller pointed at Crates the Cynic walking by. Zeno followed.
-- Key scene: his later quip — "I made a prosperous voyage when I suffered shipwreck." The disaster routed him into philosophy.
-- Second beat: he taught in the *Stoa Poikile*, the painted porch — a public colonnade, not a private estate. The school took its name from a place anyone could walk into.
-- Takeaway: Zeno's life is the original case study for the Stoic claim that what looks like ruin can be the start of a better life — not because the ruin was good, but because what we did next was up to us.
-
----
-
-## Lesson 2 — Cleanthes the Steadfast
-
-**Virtue:** persistence when the work is unglamorous.
-
-- Thesis: the second head of the Stoa carried water at night to pay for philosophy by day. He is the patron saint of doing the work no one sees.
-- Biographical anchor: c. 330–230 BC. Came to Athens as a boxer with little money. Studied under Zeno for nineteen years. Worked nights drawing water from gardens to fund his studies. Earned the nickname "the well-water-drawer."
-- Key scene: hauled before an Athenian court on suspicion of having no visible means of support. Witnesses were called — the gardener and the woman whose flour he ground — who testified that he worked through the night. The court was so impressed they offered him money. Zeno made him give it back: he wanted Cleanthes to keep earning it himself.
-- Second beat: when others mocked him for being slow to grasp Zeno's lectures, Cleanthes replied that his mind was like a wax tablet — hard to write on, but what was written stayed. He outlived his teacher and ran the school for over thirty years.
-- Takeaway: not every Stoic is quick or brilliant. Cleanthes shows that steady, unglamorous, consistent practice — what we now might call grit — is its own form of excellence.
+- Thesis: Stoicism begins with a merchant who, having lost his cargo, did not go home. He built something new out of what was at hand. The school is a founder's project.
+- Biographical anchor: Phoenician merchant from Citium, ~334–262 BC. Already a man of trade before he was ever a philosopher. Lost his cargo of purple dye in a shipwreck near Athens, wandered into a bookshop, read Xenophon's *Memorabilia*, asked the bookseller where he could find a man like Socrates. The bookseller pointed at Crates the Cynic walking by. Zeno followed.
+- Key scene: his later quip — "I made a prosperous voyage when I suffered shipwreck." Not a consolation. A re-statement of his strategy: the wreck routed capital and attention to a better venture.
+- Second beat (the entrepreneur thread): he didn't found the school in a private estate or a temple precinct. He taught in the *Stoa Poikile*, the painted porch — a free public colonnade in the Athenian agora. He used what was already there. The school takes its name from a borrowed building.
+- Third beat: he synthesized rather than copied. He took ethics from the Cynics, logic from the Megarians, physics from Heraclitus, and welded them into a single system. The merchant's habit of finding the best material on the market and assembling it into something the market did not yet have.
+- Takeaway: Zeno is a model not just for resilience but for *resourceful* resilience — for the practitioner who, dealt a loss, asks what they can now build with what is left. Philosophy is the founder's craft applied to a life.
 
 ---
 
-## Lesson 3 — Musonius the Practical
+## Lesson 2 — Cleanthes the Loyal
 
-**Virtue:** philosophy as practice, not lecture.
+**Virtue:** loyalty — to a teacher, to a school, to one's own slow understanding.
 
-- Thesis: Musonius Rufus measured a philosopher by what they did, not by what they said. He is the corrective to anyone who treats Stoicism as a hobby of the mind.
-- Biographical anchor: c. 20/30–101 AD. Roman knight. Twice exiled — once by Nero to the barren island of Gyaros, once by Vespasian. Teacher of Epictetus.
-- Key scene: in exile on Gyaros, Musonius did not lament. He found a spring on the island, helping make it habitable, and continued to teach. Visitors came to him there.
-- Second beat: he insisted that women should study philosophy on the same grounds as men, because both possess the same capacity for reason. This was unusual in his time and remains one of his clearest claims.
-- Third beat (optional, used if space): the famous exchange where his student Epictetus argued that small mistakes in logic were not the end of the world — "It's not as if I burned down the Capitol" — and Musonius answered, "Idiot. The mistake here *is* the Capitol." A teacher who refused to grade on a curve.
-- Takeaway: a Stoic is recognized by exiles handled well, lessons taught when no one is watching, and standards held in private. Musonius modeled all three.
+- Thesis: the second head of the Stoa is a model of fidelity. He stayed with Zeno for nineteen years, ran the school for thirty more after Zeno's death, and never traded any of it for an easier life.
+- Biographical anchor: c. 330–230 BC. Came to Athens as a boxer with little money. Studied under Zeno for nineteen years. Worked nights drawing water from gardens to fund his studies by day. Earned the nickname "the well-water-drawer."
+- Key scene: hauled before an Athenian court on suspicion of having no visible means of support. Witnesses were called — the gardener and the woman whose flour he ground — who testified that he worked through the night. The court was so impressed they offered him money. Zeno made him give it back: he wanted Cleanthes to keep earning it himself. Cleanthes complied without argument. The loyalty was to the practice, not to comfort.
+- Second beat (loyalty to one's own pace): when others mocked him for being slow to grasp Zeno's lectures, Cleanthes replied that his mind was like a wax tablet — hard to write on, but what was written stayed. He didn't pretend to be quicker than he was. He didn't trade his real understanding for a flashier one.
+- Third beat (loyalty to the school): after Zeno died, Cleanthes ran the Stoa for over thirty years. He preserved and extended his teacher's work rather than founding his own breakaway brand. Stoicism survived its first generation because of him.
+- Takeaway: not every Stoic is quick or brilliant. Cleanthes shows that loyalty — to a teacher, to a discipline, to one's own honest pace of learning — is itself a form of excellence, and often the form that keeps a tradition alive.
 
 ---
 
-## Lesson 4 — Thrasea the Conscientious
+## Lesson 3 — Musonius, the Roman Socrates
 
-**Virtue:** the silent no.
+**Virtue:** the teacher's craft — relentless questioning, lived demonstration, refusal to lower the standard.
+
+- Thesis: Musonius earned the title "the Roman Socrates" in his own time. He was the philosopher whose authority came from how he taught and how he lived under pressure, not from what he wrote.
+- Biographical anchor: c. 20/30–101 AD. Roman knight. Twice exiled — once by Nero to the barren island of Gyaros, once by Vespasian. Teacher of Epictetus. Like Socrates, he wrote nothing himself; what we have was preserved by students.
+- The Socrates parallel, made explicit:
+  - Both refused to leave their post even when leaving would have been safer (Socrates with the trial; Musonius staying in Rome through political danger and accepting exile when it came).
+  - Both taught in public spaces, working with whoever was present.
+  - Both produced no writings of their own and survive through their students.
+  - Both are remembered for sharp, redirective exchanges with students rather than for systematic treatises.
+- Key scene: in exile on Gyaros, Musonius did not lament. He found a spring on the barren island, helping make it habitable, and continued to teach. Visitors traveled there to study with him. The classroom moved.
+- Second beat: he insisted that women should study philosophy on the same grounds as men, because both possess the same capacity for reason. Unusual in his time. Of a piece with the Socratic refusal to grant rank a free pass.
+- Third beat: the exchange where his student Epictetus argued small mistakes in logic were not the end of the world — "It's not as if I burned down the Capitol" — and Musonius answered, "Idiot. The mistake here *is* the Capitol." A teacher who refused to grade on a curve. (Note: also used in `introduction-to-stoicism-musonius-rufus.md` — keep here, but recast in fresh language.)
+- Takeaway: a Stoic teacher is recognized by exiles handled well, lessons taught when no one important is watching, and standards held in private. Musonius modeled all three. He earned the comparison to Socrates — not as a flattering nickname, but as a description of the same craft, practiced four centuries later.
+
+---
+
+## Lesson 4 — Thrasea the [epithet TBD — see options below]
+
+**Virtue:** the silent no — refusing to lend your name and presence to a lie, at known cost.
+
+> **Open question for review.** "Conscientious" understates what Thrasea did. Options, in order of recommendation:
+> - **Thrasea the Resolute** — captures the long, sustained refusal across years (he kept walking out, not just once).
+> - **Thrasea the Just** — names the virtue directly; he is the volume's clearest model of justice under tyranny.
+> - **Thrasea the Unbending** — physically evokes the posture; risks sounding more punchy than the Stoa house voice usually allows.
+> - **Thrasea the Last Senator** — narrative rather than virtue-named; pairs with the existing "Marcus the Moderate" pattern less cleanly. Use only if the story-first frame is wanted.
+>
+> Recommend **Resolute**.
 
 - Thesis: under a tyrant, the cleanest act of resistance is sometimes simply refusing to participate in the lie.
 - Biographical anchor: Publius Clodius Thrasea Paetus, d. 66 AD. Roman senator under Nero. Married into Cato the Younger's family. Wrote a biography of Cato.
@@ -75,14 +90,16 @@ The selection is shaped by two filters:
 
 ---
 
-## Lesson 5 — Helvidius the Direct
+## Lesson 5 — Helvidius the Free
 
-**Virtue:** speaking what is true to those who can punish you for it.
+**Virtue:** the inner freedom Epictetus pointed at — being unable to be coerced into betraying your own role.
 
-- Thesis: Thrasea's son-in-law took the lesson one step further. Where Thrasea withdrew, Helvidius spoke.
-- Biographical anchor: Helvidius Priscus, d. c. 75 AD. Senator. Survived Nero. Stood up to the next emperor, Vespasian, and was executed for it.
-- Key scene: the exchange recorded by Epictetus. Vespasian sent word to Helvidius not to attend the senate. Helvidius replied that it was in Vespasian's power to remove him from the senate, but as long as he was a senator he must attend. "Then attend, but say nothing." "Don't ask me my opinion and I'll be silent." "But I must ask your opinion." "And I must say what seems right." "But if you do, I will kill you." "When did I ever tell you I was immortal? You will do your part, and I will do mine. Yours is to kill; mine is to die without flinching."
-- Takeaway: Helvidius shows that a Stoic does not negotiate with power over the truth. The job description does not include silence. He also shows the cost — and that the cost was, to him, a known and accepted part of doing the work.
+- Thesis: Helvidius is Epictetus's go-to example of a free man. Not free in the legal sense (he was a senator, not a slave), but free in the sense Epictetus means in *Discourses* 1.2: a person whose decisions cannot be moved by threat because they are anchored in something more important than survival.
+- Biographical anchor: Helvidius Priscus, d. c. 75 AD. Senator. Son-in-law of Thrasea (link the lessons). Survived Nero. Stood up to Vespasian, and was executed for it.
+- Key scene — Epictetus's account, *Discourses* 1.2: Vespasian sent word to Helvidius not to attend the senate. Helvidius replied: it is in your power to remove me from the senate, but as long as I am a senator I must attend. "Then attend, but say nothing." "Don't ask me my opinion and I'll be silent." "But I must ask your opinion." "And I must say what seems right." "But if you do, I will kill you." "When did I ever tell you I was immortal? You will do your part, and I will do mine. Yours is to kill; mine is to die without flinching."
+- The frame Epictetus draws from this: most people, threatened with death, would calculate — *what is my life worth, and what is this principle worth?* — and trade. Helvidius did not calculate. There was nothing on the other side of the trade for him. To stop being a senator who told the truth was to stop being himself. The threat had no leverage.
+- This is the freedom Epictetus is talking about: not the absence of external constraint, but the absence of *internal* leverage. The free person is the one who cannot be bought or scared into ceasing to be themselves.
+- Takeaway: Helvidius shows what the Stoic word "freedom" actually means. It is not freedom *from* — from danger, from death, from the emperor — but freedom *as*: the condition of a person who has nothing to negotiate. (Pull `prohairesis` here only if useful; otherwise leave the point in plain English.)
 
 ---
 
@@ -98,9 +115,17 @@ The selection is shaped by two filters:
 
 ---
 
-## Lesson 7 — Agrippinus the Whole
+## Lesson 7 — Agrippinus the [epithet TBD — see options below]
 
-**Virtue:** knowing what role you will not play.
+**Virtue:** knowing in advance who you are and what role you will not play, so the moment of pressure does not require deliberation.
+
+> **Open question for review.** "The Whole" is too abstract for the virtue. Options, in order of recommendation:
+> - **Agrippinus the Decided** — names the mechanism: the work happens before the moment, so when pressure arrives the decision is already made. Closest match to the lesson's takeaway.
+> - **Agrippinus the Composed** — captures the calm of the Aricia lunch story but underweights the *purple stripe* declaration of identity.
+> - **Agrippinus the Settled** — same shape as Decided, gentler register.
+> - **Agrippinus the Purple Stripe** — narrative-first, pulls his own metaphor into the title; risks reading as cute rather than measured.
+>
+> Recommend **Decided**.
 
 - Thesis: Epictetus tells one story about Agrippinus more than any other: the Stoic who knew, in advance, what he would and would not do. He is the model of a person who does not have to deliberate at the moment of pressure because the work has already been done.
 - Biographical anchor: Paconius Agrippinus, 1st century AD. Roman senator. Exiled by Nero. Father had been executed under Tiberius.
@@ -124,5 +149,6 @@ The selection is shaped by two filters:
 - Quotes: where a primary-source quote is used (Epictetus's Helvidius dialogue, Marcus on Rusticus, Zeno's "prosperous voyage"), pull from `resources/quotes/quotes.md` and cite the Quote ID inline so it links into the app. Trim long passages to the load-bearing sentences.
 - Vary quote openings across the seven lessons; do not stack quotes that all begin "When..." or "It is..."
 - Do not duplicate anecdotes already used in volume 1 (Cato dragged from the senate, Diogenes and Alexander, etc.).
-- Open question for review: include all seven, or trim to five? The Cleanthes / Rusticus pair both illustrate "quiet, unrecognized work" and could be combined or one cut if the course feels long. Recommend keeping both — they make different points (persistence vs. influence-without-credit) — but flagging here for explicit decision before writing begins.
-- Open question: order. Current order is roughly chronological with Agrippinus moved to the end because his takeaway functions well as a closer. Alternative: thematic order (founders → teachers → political dissenters → role-clarity). Recommend the current order; flagging for review.
+- Open question for review: include all seven, or trim to five? Cleanthes (loyalty) and Rusticus (mentorship-without-credit) sit close to each other; if the course feels long, one could be cut. Recommend keeping both — different virtues, different scenes — but flagging.
+- Open question: order. Current order is roughly chronological with Agrippinus moved to the end because his takeaway functions well as a closer. Alternative: thematic (founders → teachers → political dissenters → role-clarity). Recommend the current order.
+- Open questions on epithets: see Lesson 4 (Thrasea) and Lesson 7 (Agrippinus). Recommendations are **Resolute** and **Decided** respectively, with alternatives listed.
