@@ -116,6 +116,58 @@ Favor short quotes (under 5 sentences). Longer passages overflow the in-app
 quote card. If a longer quote is the right one philosophically, trim to the
 load-bearing sentences and weave the rest into the surrounding prose.
 
+## Reviews
+
+Drafts in `content/<type>/draft/` are reviewed in-repo before the Drive doc is
+revised. A review is a Markdown file living next to the draft it reviews:
+
+```
+content/routine/draft/boethius-routine.md           # the draft
+content/routine/draft/boethius-routine-review.md    # the review
+```
+
+Naming: `<draft-slug>-review.md`. Frontmatter points back at the reviewed
+draft and the paradigm files the review is checking against:
+
+```yaml
+---
+title: Review — <Draft Title>
+reviews: <draft-slug>.md
+drive_url: <url of the doc actually being reviewed>
+reviewed_against:
+  - content/<type>/AGENTS.md
+  - content/<type>/PARADIGMS.md
+status: draft
+---
+```
+
+Structure of the body:
+
+1. **Top priorities** — numbered list of the handful of structural issues
+   that, if fixed, would change the shape of the draft. Include any
+   doc-wide bulk-edit chores here (em-dash sweep, quote ID lookup) so they
+   are not buried.
+2. **Voice & style** — cross-cutting voice notes (tone drift, repeated
+   openers, register slips). Group repeated issues into one named pattern
+   rather than flagging each instance separately.
+3. **Per-lesson sections** — short quoted "anchor" snippets so each comment
+   can be pasted as a Drive comment. One anchor, one action.
+4. **Writer-blocked items** — anything that depends on the writer drafting
+   missing pieces (e.g. `Meditation` / `Commitment` / `Action` stubs).
+   Separate from review feedback so the action list isn't diluted.
+
+How to write the comments themselves — pair every diagnosis with the
+replacement line, state directives instead of options, name patterns
+instead of flagging instances, cite paradigm rules together with a sample
+line that satisfies them. See
+`content/routine/draft/boethius-review-principles.md` for a worked example
+of which comment shapes drove changes in the Drive revision and which got
+skipped.
+
+The review→revision→re-review loop closes with a pass over the prior
+review against the new draft: which comments landed, which were skipped,
+and what the pattern in the skips says about how the review was written.
+
 ## Out of scope
 
 The following Drive items are intentionally not synced into this repo:
