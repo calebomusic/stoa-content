@@ -54,15 +54,81 @@ Reflect on this today. What are the stories you tell yourself about how your lif
 
 ## Meditation
 
-xxx
+Today we'll interrogate a story you carry about how your life is supposed to go.
+
+Take a comfortable, but alert posture.
+
+And take a few deep breaths.
+
+20
+
+If you like, close your eyes.
+
+4
+
+Bring your attention to the breath. Watch each inhale and exhale.
+
+30
+
+When the mind wanders, return to the breath. That return is the practice.
+
+30
+
+Now bring to mind something in your life that has frustrated or angered you recently. A setback. A disappointment. A way the world has not cooperated.
+
+20
+
+Hold it clearly in mind. Notice the shape of it.
+
+20
+
+Underneath that frustration is a story. A story about how this part of your life was supposed to go. Try to name it. Begin with the words, "This was supposed to."
+
+30
+
+Maybe the story is about your career. About a relationship. About your health, or your family, or the kind of person you should already be by now.
+
+20
+
+Once you have the story, ask: who promised you that? Where did the obligation come from?
+
+30
+
+Notice that no one, and nothing, owed you this. The world made no agreement with you. The story is yours, not nature's.
+
+20
+
+This is not to dismiss what you feel. The grief is real. But the bitterness sits on the story. When the story softens, the bitterness softens.
+
+30
+
+Sit with this for a few moments.
+
+40
+
+And return your attention to the breath.
+
+20
+
+Take a few deep breaths.
+
+20
+
+And, if your eyes are closed, open them.
+
+Well done. The work today is to catch the next "supposed to" story as it arises, and to set it down.
+
+Let's end with Lady Philosophy:
+
+"She hasn't changed a bit. She was always whimsical, and remains constant in her inconstancy."
 
 ## Commitment
 
-xx
+Today, commit to noticing one "supposed to" story and naming it.
 
 ## Action
 
-xx
+You noticed a "supposed to" story and named it.
 
 2. # Prepare for Change 
 
@@ -106,15 +172,85 @@ Expect change, so that when it inevitably arrives, you will be prepared.
 
 ## Meditation
 
-xxx
+Today we'll practice the Stoic exercise of premeditation. We'll rehearse change in advance, so we are not caught unprepared.
+
+Take a comfortable, but alert posture.
+
+And take a few deep breaths.
+
+20
+
+If you like, close your eyes.
+
+4
+
+Begin with the breath. Notice each inhale and exhale.
+
+30
+
+Settle. When the mind drifts, bring it back.
+
+30
+
+Now bring to mind your life as it is today. The job you have. The people close to you. The body you live in. The comforts you depend on.
+
+20
+
+Pick one or two that feel solid. Dependable. The kind of thing you assume will be there next month.
+
+20
+
+The Stoics called this exercise praemeditatio. The premeditation of change. The point is not to invite loss. It is to remember that loss is possible, and to prepare the mind.
+
+20
+
+Choose one of those solid things. A relationship. A role. A part of your health.
+
+10
+
+Now imagine it changing. Not in a catastrophic way. Just in the ordinary way that fortune changes things. The job ends. The friend moves. The body slows.
+
+40
+
+Sit with the image. Notice the resistance that comes up. Notice the part of you that says, not this, not that.
+
+30
+
+This resistance is the surprise the Stoics wanted to dissolve. By rehearsing change in advance, you take away its power to ambush you.
+
+20
+
+Now picture yourself meeting that change with steadiness. Not happiness. Not denial. Just the calm of someone who knew, in advance, that this was always possible.
+
+30
+
+Stay with that image.
+
+40
+
+And return your attention to the breath.
+
+20
+
+Take a few deep breaths.
+
+20
+
+And, if your eyes are closed, open them.
+
+Well done. You don't need to expect the worst at every moment. You just need to remember, once a day, that change is the rule.
+
+Let's end with Lady Philosophy:
+
+"You knew the mutability of fortune and you should have prepared yourself against the constant threats of betrayal."
 
 ## Commitment
 
-xx
+Today, commit to premeditating one change you have been refusing to consider.
 
 ## Action
 
-Xx
+You premeditated a change and prepared yourself for it.
 
 3. # Fortune’s Loan
 
@@ -148,15 +284,85 @@ Epictetus knew this fact, and Lady Philosophy taught it to Boethius. Fortune can
 
 ## Meditation
 
-xxx
+Today we'll practice Epictetus's reframe. We'll take three things and shift from "lost" to "given back."
+
+Take a comfortable, but alert posture.
+
+And take a few deep breaths.
+
+20
+
+If you like, close your eyes.
+
+4
+
+Bring your attention to the breath. Notice each inhale and exhale.
+
+30
+
+When the mind wanders, return.
+
+30
+
+Now bring to mind something you have lost. Not the worst thing. Something ordinary. A friendship that faded. A job that ended. A part of your body, or your health.
+
+20
+
+Hold it clearly.
+
+20
+
+Notice the language your mind reaches for. Taken. Stolen. Gone. Notice how that language assumes the thing was yours to begin with.
+
+20
+
+Now try Epictetus's reframe. Say to yourself, silently, "I have given it back."
+
+10
+
+Sit with that phrase. Notice what shifts.
+
+40
+
+Now bring to mind a second thing you have lost. Repeat the exercise. "I have given it back."
+
+40
+
+And a third. Again. "I have given it back."
+
+40
+
+This reframe is not denial. The loss is real. But the language of theft makes the loss heavier than it needs to be. The language of return puts you back in your right relationship with the thing. You held it for a while. Now it has gone back to where it came from.
+
+30
+
+Sit with that posture for a few moments.
+
+40
+
+And return your attention to the breath.
+
+20
+
+Take a few deep breaths.
+
+20
+
+And, if your eyes are closed, open them.
+
+Well done. The world will keep handing things to you, and asking for some of them back. The practice is to receive both with the same hands.
+
+Let's end with Lady Philosophy:
+
+"When nature brought you out of your mother's womb, you were naked and poor, and helpless. And I accepted you, and was kind to you, and gave you more than you needed."
 
 ## Commitment
 
-xx
+Today, commit to reframing one loss from "taken" to "given back."
 
 ## Action
 
-Xx
+You reframed a loss from "taken" to "given back."
 
 4. # Be Grateful
 
@@ -204,15 +410,89 @@ If things seem unfairly bad \- you are probably focusing on too specific of a mo
 
 ## Meditation
 
-xxx
+Today we'll do the math Lady Philosophy asks for. We'll widen the view across time, and across the people in our life.
+
+Take a comfortable, but alert posture.
+
+And take a few deep breaths.
+
+20
+
+If you like, close your eyes.
+
+4
+
+Bring your attention to the breath.
+
+30
+
+Settle. When the mind wanders, return.
+
+30
+
+Now bring to mind your life so far. Not the latest week. The whole stretch.
+
+20
+
+Begin with the years. Count them silently. The years of school, of work, of relationships, of health.
+
+40
+
+Across that stretch, notice the periods that were good. Not perfect. Just good. Time when work was steady, or someone was close, or your body was strong.
+
+30
+
+You will find that the good years outnumber the bad. Most lives have more ordinary good than extraordinary bad. That is the first part of the math.
+
+20
+
+Now widen the view further. Bring to mind the people closest to you. Family. Partners. Friends.
+
+20
+
+Consider their lives. Their health. The work they care about. The people they love.
+
+30
+
+Most of them, on most days, are doing alright. They are alive. They are loved. They are not, today, in the worst chapter of their story.
+
+30
+
+That is the second part of the math. Your fortune is not only your own. When you count the people, you almost always count more good than bad.
+
+20
+
+If the present moment feels unbearable, the lens is too narrow. Widen it. Across years. Across people. See what is still good.
+
+30
+
+Sit with this widened view for a few moments.
+
+40
+
+And return your attention to the breath.
+
+20
+
+Take a few deep breaths.
+
+20
+
+And, if your eyes are closed, open them.
+
+Well done. When you find yourself focused on the worst moment, do the math. Count the years. Count the people. You are almost always ahead.
+
+Let's end with Lady Philosophy:
+
+"Balance out the good things and the bad that have happened in your life and you will have to acknowledge that you are still way ahead."
 
 ## Commitment
 
-xx
+Today, commit to widening your view across years and people before judging your fortune.
 
 ## Action
 
-Xx
+You widened your view and counted what is still good.
 
 5. #  You Can’t Lose What’s Most Important
 
@@ -256,15 +536,85 @@ We always have the thing most important to us \- our own choice. Not even fortun
 
 ## Meditation
 
-xxx
+Today we'll rehearse the dialogue Epictetus described. You are the Stoic. Something external in your life plays the tyrant.
+
+Take a comfortable, but alert posture.
+
+And take a few deep breaths.
+
+20
+
+If you like, close your eyes.
+
+4
+
+Bring your attention to the breath. Notice each inhale and exhale.
+
+30
+
+Now bring to mind something external that has power over you. Not a person, necessarily. It can be your job, your reputation, a diagnosis, a financial pressure. Something that threatens you.
+
+30
+
+Picture this thing as the tyrant in Epictetus's story.
+
+10
+
+The tyrant says, "I can take what you care about."
+
+10
+
+Listen carefully. What is it actually able to take?
+
+30
+
+It can take your money. Your title. Your comfort. Your health. Your body, eventually.
+
+30
+
+But notice what it cannot take. It cannot take your character. It cannot take how you choose to meet what comes. It cannot take what you decide is worth doing today.
+
+30
+
+In the dialogue, the Stoic responds calmly. He does not deny what the tyrant can do. He simply names what is, and is not, in the tyrant's reach.
+
+20
+
+Now you respond, in your own words, silently. To this pressure in your life, say, "You can take this. You cannot take that." Be specific on both sides.
+
+40
+
+Sit with the boundary you have just drawn. The line between what is external and what is yours.
+
+30
+
+This is the line the Stoics returned to constantly. Practice finding it before you need it.
+
+20
+
+And return your attention to the breath.
+
+20
+
+Take a few deep breaths.
+
+20
+
+And, if your eyes are closed, open them.
+
+Well done. The tyrant in your life today is whatever you are afraid will take what matters. Name what it can reach. Name what it cannot. Stand on the second.
+
+Let's end with Lady Philosophy:
+
+"If you are in possession of yourself, then you have that which you don't want to lose, and which fortune cannot take away from you."
 
 ## Commitment
 
-xx
+Today, commit to naming what is external and what is yours when something pressures you.
 
 ## Action
 
-Xx
+You named what was external, and stood on what was yours.
 
 6. # The Burden of Wealth
 
@@ -302,15 +652,81 @@ We pity the tyrant because they are controlled by their desire for wealth and st
 
 ## Meditation
 
-xxx
+Today we'll sit with something you hold, and rehearse its loss. The Stoics called this the premeditation of externals.
+
+Take a comfortable, but alert posture.
+
+And take a few deep breaths.
+
+20
+
+If you like, close your eyes.
+
+4
+
+Bring your attention to the breath. Notice each inhale and exhale.
+
+30
+
+Now bring to mind something you possess and value. Not a person. A thing or a title. The role you hold at work. The home you live in. The savings you have built. The reputation that follows your name.
+
+20
+
+Choose one. Hold it clearly.
+
+20
+
+Notice what you feel when you imagine it. Pride. Relief. A quiet pleasure. Or, beneath those, a low hum of worry that you might lose it.
+
+30
+
+This is what Lady Philosophy points to. The thing you hold also holds you. The more it gives you, the more it threatens to take when it leaves.
+
+20
+
+Now picture the thing being gone. The title removed. The home sold. The savings spent. The reputation reduced.
+
+40
+
+Sit with the image. Notice the resistance.
+
+30
+
+Now ask, honestly. Would you still be you? Would the part of you that matters most still be there?
+
+30
+
+The Stoics argue that it would. The thing was never the source of who you are. It was a possession. A loan.
+
+20
+
+Sit with that quiet recognition for a few moments.
+
+40
+
+And return your attention to the breath.
+
+20
+
+Take a few deep breaths.
+
+20
+
+And, if your eyes are closed, open them.
+
+Well done. When you find yourself anxious about losing something, sit with the loss in advance. The thing has less power over you when you have already met its absence.
+
+Let's end with Lady Philosophy:
+
+"My view is that nothing is good that is harmful to him who owns it."
 
 ## Commitment
 
-xx
+Today, commit to naming one possession or title that has been making you anxious about its loss.
 
 ## Action
 
-Xx
+You named a possession, and sat with the possibility of its loss.
 
 7. # Know thyself
 
@@ -346,12 +762,90 @@ Your answer will say a lot about your philosophy.
 
 ## Meditation
 
-xxx
+Today we'll close the course with the practice Boethius's predecessors used. A short self-examination. The day, or the week, in review.
+
+Take a comfortable, but alert posture.
+
+And take a few deep breaths.
+
+20
+
+If you like, close your eyes.
+
+4
+
+Bring your attention to the breath. Notice each inhale and exhale.
+
+30
+
+When the mind wanders, return.
+
+30
+
+Now bring to mind the recent stretch of your life. The last day. The last week. Whatever feels right.
+
+20
+
+Walk through it in order. The conversations. The decisions. The moments you were tested.
+
+40
+
+The Stoics asked three questions in this review. Move through them slowly.
+
+10
+
+First. What did I do well? Where did I act like the person I want to be?
+
+40
+
+Second. What did I do poorly? Where did I fall back into anger, or fear, or chasing something external?
+
+40
+
+Third. What would I do differently? What is the lesson I can carry forward?
+
+40
+
+The point of this review is not to punish yourself. It is to see clearly. To examine your own life, which Boethius said is the work of being human.
+
+20
+
+Now bring to mind the four tools from this course. Fortune is fickle. Prepare for change. What you hold is on loan. You cannot lose your character.
+
+30
+
+Ask, which of these did I use this week? Which one do I need most tomorrow?
+
+40
+
+Choose one. Carry it forward.
+
+20
+
+And return your attention to the breath.
+
+20
+
+Take a few deep breaths.
+
+20
+
+And, if your eyes are closed, open them.
+
+Well done. You have finished this course on Boethius.
+
+You learned that fortune was never a contract, only a habit of change. You learned to prepare for it, to hold its gifts as loans, to widen the view when the present narrows, to keep your character when externals are taken, and to look at wealth and title with steady eyes.
+
+Lady Philosophy's first lesson is also her last. Fortune did not turn on Boethius. She had been the same all along.
+
+Let's end with her words from the first day:
+
+"She hasn't changed a bit. She was always whimsical, and remains constant in her inconstancy."
 
 ## Commitment
 
-xx
+Today, commit to reviewing your day this evening with the three Stoic questions.
 
 ## Action
 
-xx
+You reviewed your day, and named the lesson to carry forward.
